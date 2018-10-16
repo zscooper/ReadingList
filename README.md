@@ -12,3 +12,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 ### pacificArctic.bib
 
 .bib file updated with each new .md note file for use in compiling references in LaTeX.
+
+### Read Papers
+* [Loggerwell2015PO](https://github.com/leviner/ReadingList/tree/master/pacificArctic\Loggerwell2015PO.md)
+* [Quast1974FB](https://github.com/leviner/ReadingList/tree/master/pacificArctic\Quast1974FB.md)
+* [Vestfals2018](https://github.com/leviner/ReadingList/tree/master/pacificArctic\Vestfals2018.md)

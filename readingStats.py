@@ -3,6 +3,7 @@ import pandas as pd
 import itertools
 from collections import Counter
 import matplotlib.pyplot as plt
+import os
 
 files = glob('pacificArctic\\*.md')
 
@@ -25,3 +26,15 @@ print('Total papers read: '+ str(len(files)) + '\n '+
 
 readDates.groupby('Date').size().plot()
 plt.show()
+
+# Now lets populate the readme file with the paper list
+readme = 'README.md'
+searchfile = open(readme, "r")
+allText = ''
+for line in searchfile:
+    allText = allText+line
+searchfile.close()
+with open(readme,'a') as myFile:
+    for file in files:
+        if os.path.basename(file)[:-3] not in allText:
+            myFile.write('* ['+os.path.basename(file)[:-3]+'](https://github.com/leviner/ReadingList/tree/master/'+file+') \n' )

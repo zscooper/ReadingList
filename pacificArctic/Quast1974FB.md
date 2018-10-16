@@ -1,10 +1,13 @@
 10/15/18
 ## Authors:
- J. C. Quast
+ Quast, J. C.
 ## Title:
 Density distribution of juvenile Arctic cod, Boregogadus saida in the Eastern Chukchi Sea in the fall of 1970
 ## Keywords:
 arctic cod, depth dependence, trawl, chukchi, abundance
+
+## Geographic Coverage
+Chukchi Sea
 
 ## Field Dates:
 09/27/1970 - 10/17/1970

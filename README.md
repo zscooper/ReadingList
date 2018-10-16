@@ -14,6 +14,6 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 .bib file updated with each new .md note file for use in compiling references in LaTeX.
 
 ### Read Papers
-* [Loggerwell2015PO](https://github.com/leviner/ReadingList/tree/master/pacificArctic\Loggerwell2015PO.md)
-* [Quast1974FB](https://github.com/leviner/ReadingList/tree/master/pacificArctic\Quast1974FB.md)
-* [Vestfals2018](https://github.com/leviner/ReadingList/tree/master/pacificArctic\Vestfals2018.md)
+* [Loggerwell2015PO - Fish communities across a spectrum of habitats in the western Beaufort Sea and Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Loggerwell2015PO.md)
+* [Quast1974FB - Density distribution of juvenile Arctic cod, Boregogadus saida in the Eastern Chukchi Sea in the fall of 1970](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Quast1974FB.md)
+* [Vestfals2018 - Distribution of early life stages of Arctic cod and saffron cod in the Pacific Arctic](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Vestfals2018.md)

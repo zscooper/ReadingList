@@ -24,7 +24,7 @@ print('Total papers read: '+ str(len(files)) + '\n '+
      'Average per day: ' + str(numPapers/numDays) + '\n '+
      'Most common keywords: ' + str(Counter(list(itertools.chain.from_iterable(readDates.Keys.values))).most_common(5)))
 
-readDates.groupby('Date').size().plot(x = 'Date', y='Number Papers', figsize = (10,3))
+readDates.groupby('Date').size().plot(x = 'Date', y='Number Papers', figsize = (10,1.5))
 plt.savefig('readingTimeline.jpg')
 
 # Now lets populate the readme file with the paper list

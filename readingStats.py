@@ -38,5 +38,9 @@ with open(readme,'a') as myFile:
     for file in files:
         f = open(file,'r')
         title = f.read().split('\n')[4]
+        f.seek(0)
+        sig = f.read().split('\n')[12]
         if os.path.basename(file)[:-3] not in allText:
-            myFile.write('* ['+os.path.basename(file)[:-3]+' - '+title+'](https://github.com/leviner/ReadingList/tree/master/pacificArctic/'+os.path.basename(file)+') \n' )
+            myFile.write('* ['+os.path.basename(file)[:-3]+' - '+
+            title+'](https://github.com/leviner/ReadingList/tree/master/pacificArctic/'+os.path.basename(file)+') \n' +
+            '     * '+ sig + ' \n')

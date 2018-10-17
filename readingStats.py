@@ -24,7 +24,8 @@ print('Total papers read: '+ str(len(files)) + '\n '+
      'Average per day: ' + str(numPapers/numDays) + '\n '+
      'Most common keywords: ' + str(Counter(list(itertools.chain.from_iterable(readDates.Keys.values))).most_common(5)))
 
-readDates.groupby('Date').size().plot(x = 'Date', y='Number Papers', figsize = (10,2.7))
+readDates.groupby('Date').size().plot(x = 'Date', y='Number Papers', figsize = (10,2))
+plt.gcf().subplots_adjust(bottom=0.2)
 plt.savefig('readingTimeline.jpg')
 
 # Now lets populate the readme file with the paper list
@@ -39,7 +40,6 @@ nfirstlines = []
 with open(readme) as f, open("readmetmp.txt", "w") as out:
     for x in range(n):
         nfirstlines.append(next(f))
-    print(nfirstlines)
     for line in nfirstlines:
         out.write(line)
 # NB : it seems that `os.rename()` complains on some systems

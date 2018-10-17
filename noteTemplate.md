@@ -5,13 +5,10 @@ Emo, N. and Arlin, M. and Ory, D.
 Lost in a sea of fishes: behavioral ecology of the pacific basin
 ## Keywords:
 Mine, mine, mine
-
 ## Geographic Coverage
 Amnemonemomne, East Australian Current
-
 ## Field Dates:
 05/30/2005 - 05/31/2005
-
 ## Significance:
 This is the first documented case of blue-tang (*Paracanthurus hepatus*) and blue whale (*Balaenoptera musculus*) auditory communication.
 

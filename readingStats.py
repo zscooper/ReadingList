@@ -29,18 +29,31 @@ plt.savefig('readingTimeline.jpg')
 
 # Now lets populate the readme file with the paper list
 readme = 'README.md'
-searchfile = open(readme, "r")
-allText = ''
-for line in searchfile:
-    allText = allText+line
-searchfile.close()
+# searchfile = open(readme, "r")
+# allText = ''
+# for line in searchfile:
+#     allText = allText+line
+# searchfile.close()
+n = 18 # These are the lines before the actual listed links
+nfirstlines = []
+with open(readme) as f, open("readmetmp.txt", "w") as out:
+    for x in range(n):
+        nfirstlines.append(next(f))
+    print(nfirstlines)
+    for line in nfirstlines:
+        out.write(line)
+# NB : it seems that `os.rename()` complains on some systems
+# if the destination file already exists.
+os.remove(readme)
+os.rename("readmetmp.txt", readme)
+
 with open(readme,'a') as myFile:
     for file in files:
         f = open(file,'r')
         title = f.read().split('\n')[4]
         f.seek(0)
         sig = f.read().split('\n')[12]
-        if os.path.basename(file)[:-3] not in allText:
-            myFile.write('* ['+os.path.basename(file)[:-3]+' - '+
-            title+'](https://github.com/leviner/ReadingList/tree/master/pacificArctic/'+os.path.basename(file)+') \n' +
-            '     * '+ sig + ' \n')
+        #if os.path.basename(file)[:-3] not in allText:
+        myFile.write('* ['+os.path.basename(file)[:-3]+' - '+
+        title+'](https://github.com/leviner/ReadingList/tree/master/pacificArctic/'+os.path.basename(file)+') \n' +
+        '     * '+ sig + ' \n')

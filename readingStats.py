@@ -4,6 +4,7 @@ import itertools
 from collections import Counter
 import matplotlib.pyplot as plt
 import os
+from wordcloud import WordCloud
 
 files = glob('pacificArctic\\*.md')
 
@@ -16,7 +17,7 @@ for file in files:
         keywords.append(f.read().split('\n')[6].split(', '))
 readDates = pd.DataFrame({'Date': pd.to_datetime(date), 'Keys':keywords})
 unique = set(x for l in readDates.Keys for x in l)
-
+allKeys = ','.join(str(r) for v in keywords for r in v)
 topKeys = ''
 numPapers = len(files)
 numDays = (max(readDates.Date)-min(readDates.Date)).days+1
@@ -24,9 +25,14 @@ print('Total papers read: '+ str(len(files)) + '\n '+
      'Average per day: ' + str(numPapers/numDays) + '\n '+
      'Most common keywords: ' + str(Counter(list(itertools.chain.from_iterable(readDates.Keys.values))).most_common(5)))
 
+# figure 1 - wordmap
+wordcloud = WordCloud(background_color="white").generate(allKeys)
+wordcloud.to_file("readingCloud.png")
+
+# figure 2 - paper counts
 readDates.groupby('Date').size().plot(x = 'Date', y='Number Papers', figsize = (10,2))
 plt.gcf().subplots_adjust(bottom=0.2)
-plt.savefig('readingTimeline.jpg')
+plt.savefig('readingTimeline.png')
 
 # Now lets populate the readme file with the paper list
 readme = 'README.md'

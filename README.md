@@ -7,8 +7,7 @@ The goal is that these .md files will be able to be indexed by python based on t
 # Paper Folders
 
 ## pacificArctic
-![readingTimeline](https://github.com/leviner/ReadingList/blob/master/readingTimeline.png)![readingTimeline](https://github.com/leviner/ReadingList/blob/master/readingCloud.png)
-
+![readingTimeline](https://github.com/leviner/ReadingList/blob/master/readingCloud.png)![readingTimeline](https://github.com/leviner/ReadingList/blob/master/readingTimeline.png)
 Notes (author, year, journal in file header) on readings.  Top of each note document has authors, year, jounral, title, and keywords as subsections that can be used to later index through files if needed.
 
 ### pacificArctic.bib
@@ -16,6 +15,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 .bib file updated with each new .md note file for use in compiling references in LaTeX.
 
 ### Read Papers
+* [Buckley2016EBF - Variation in the diet of Arctic Cod (Boreogadus saida) in the Pacific Arctic and Bering Sea](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Buckley2016EBF.md)
 * [Buckley2016EBF - Variation in the diet of Arctic Cod (Boreogadus saida) in the Pacific Arctic and Bering Sea](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Buckley2016EBF.md) 
      * They look at the summer diet of arctic cod across multiple age classes from opportunistic samples throughout the Chukchi and Bering Sea.  Along a north-south gradient in the ECS, copepods dominate diets at higher latitudes, euphausiids at lower latitudes.  Larger fish have a more diverse diet of larger prey (decapods, fishes).  Arctic cod are highly opportunistic. 
 * [Kitamura2017CSR - Seasonal dynamics of zooplankton in the southern Chukchi Sea revealed from acoustic backscattering strength](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Kitamura2017CSR.md) 

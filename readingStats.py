@@ -30,8 +30,8 @@ wordcloud = WordCloud(background_color="white").generate(allKeys)
 wordcloud.to_file("readingCloud.png")
 
 # figure 2 - paper counts
-readDates.groupby('Date').size().plot(x = 'Date', y='Number Papers', figsize = (4.5,2.5))
-plt.gcf().subplots_adjust(bottom=0.25)
+readDates.groupby('Date').size().plot(figsize = (4.5,2.5))
+plt.gcf().subplots_adjust(bottom=0.21)
 plt.savefig('readingTimeline.png')
 
 # Now lets populate the readme file with the paper list

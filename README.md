@@ -7,7 +7,7 @@ The goal is that these .md files will be able to be indexed by python based on t
 # Paper Folders
 
 ## pacificArctic
-![readingTimeline](https://github.com/leviner/ReadingList/blob/master/readingTimeline.png) ![readingTimeline](https://github.com/leviner/ReadingList/blob/master/readingCloud.png)
+![readingTimeline](https://github.com/leviner/ReadingList/blob/master/readingTimeline.png)![readingTimeline](https://github.com/leviner/ReadingList/blob/master/readingCloud.png)
 
 Notes (author, year, journal in file header) on readings.  Top of each note document has authors, year, jounral, title, and keywords as subsections that can be used to later index through files if needed.
 

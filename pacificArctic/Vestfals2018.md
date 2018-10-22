@@ -5,13 +5,10 @@ Vestfals, C. and Mueter, F. and Duffy-Anderson, J. and Busby, M. and De Robertis
 Distribution of early life stages of Arctic cod and saffron cod in the Pacific Arctic
 ## Keywords:
 chukchi sea, beaufort sea, arctic cod, saffron cod, distribution, early life stages
-
 ## Geographic Coverage
 Bering Sea, Chukchi Sea
-
 ## Field Dates:
 06/01/2004 - 10/01/2013
-
 ## Significance:
 Vestfals et al aim to narrow down the potential spawning grounds for arctic and saffron cod based on the physical oceanography and summer distribution.  It contains a good review in the intro of the current literature on early life history.
 

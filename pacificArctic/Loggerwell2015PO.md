@@ -5,13 +5,10 @@
 Fish communities across a spectrum of habitats in the western Beaufort Sea and Chukchi Sea
 ## Keywords:
 arctic cod, benthic, trawl, chukchi, beaufort, lagoon
-
 ## Geographic Coverage:
 Chukchi Sea, Beaufort Sea, East Siberian Sea
-
 ## Field Dates:
 08/01/2007 - 10/01/2012
-
 ## Significance:
 Synthesized five years of surveys to look at differences in abundance (density) of animals from the lagoon to shelf slope in the Chukchi and Beaufort.  They also looked at icthyoplankton.  Based on Icthyoplankton, they state that the Beaufort Sea shelf is likely a spawning location for Arctic cod.
 

@@ -5,13 +5,10 @@
 Density distribution of juvenile Arctic cod, Boregogadus saida in the Eastern Chukchi Sea in the fall of 1970
 ## Keywords:
 arctic cod, depth dependence, trawl, chukchi, abundance
-
 ## Geographic Coverage
 Chukchi Sea
-
 ## Field Dates:
 09/27/1970 - 10/17/1970
-
 ## Significance:
 This was the first fisheries survey of Arctic cod in the NE Chukchi (as far as I know), and showed that there were primarily young of the year A. cod, with a depth-dependent density.  Quast also speculates about the origin of the juvenile cod.
 

@@ -2,8 +2,7 @@
 ## Authors:
 Urmy, S. S. and Horne, J. K. and Barbee, D. H.
 ## Title:
-Measuring the vertical distributional variability of pelagic fauna
-in Monterey Bay
+Measuring the vertical distributional variability of pelagic fauna in Monterey Bay
 ## Keywords:
 acoustics, time series, mooring, observatory, biomass, distribution
 ## Geographic Coverage

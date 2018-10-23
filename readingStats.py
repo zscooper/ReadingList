@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import os
 from wordcloud import WordCloud
 
-files = glob('pacificArctic\\*.md')
+files = glob('pacificArctic\\*.md')+ glob('acoustics\\*.md') #continue to add to this as I add more folders
 
 date = []
 keywords = []
@@ -30,18 +30,16 @@ wordcloud = WordCloud(background_color="white").generate(allKeys)
 wordcloud.to_file("readingCloud.png")
 
 # figure 2 - paper counts
-readDates.groupby('Date').size().plot(figsize = (4.5,2.5))
-plt.gcf().subplots_adjust(bottom=0.21)
-plt.savefig('readingTimeline.png')
+a = readDates.groupby('Date').size()
+idx = pd.date_range(min(readDates.Date), max(readDates.Date))
+a =a.reindex(idx,fill_value=0)
+a.plot(figsize = (4.5,2.5))
+plt.gcf().subplots_adjust(bottom=0.15)
+plt.savefig('readingTimeline.png',bbox_inches="tight")
 
 # Now lets populate the readme file with the paper list
 readme = 'README.md'
-# searchfile = open(readme, "r")
-# allText = ''
-# for line in searchfile:
-#     allText = allText+line
-# searchfile.close()
-n = 18 # These are the lines before the actual listed links
+n = 11 # These are the lines before the actual listed links
 nfirstlines = []
 with open(readme) as f, open("readmetmp.txt", "w") as out:
     for x in range(n):
@@ -53,13 +51,16 @@ with open(readme) as f, open("readmetmp.txt", "w") as out:
 os.remove(readme)
 os.rename("readmetmp.txt", readme)
 
+folders = glob('*/')
 with open(readme,'a') as myFile:
-    for file in files:
-        f = open(file,'r')
-        title = f.read().split('\n')[4]
-        f.seek(0)
-        sig = f.read().split('\n')[12]
-        #if os.path.basename(file)[:-3] not in allText:
-        myFile.write('* ['+os.path.basename(file)[:-3]+' - '+
-        title+'](https://github.com/leviner/ReadingList/tree/master/pacificArctic/'+os.path.basename(file)+') \n' +
-        '     * '+ sig + ' \n')
+    for folder in folders:
+        myFile.write('\n## '+ folder[:-1]+' \n \n')
+        for file in glob(folder+'*.md'):
+            f = open(file,'r')
+            title = f.read().split('\n')[4]
+            f.seek(0)
+            sig = f.read().split('\n')[12]
+            #if os.path.basename(file)[:-3] not in allText:
+            myFile.write('* ['+os.path.basename(file)[:-3]+' - '+
+            title+'](https://github.com/leviner/ReadingList/tree/master/pacificArctic/'+os.path.basename(file)+') \n' +
+            '     * '+ sig + ' \n')

@@ -5,13 +5,10 @@ Woodgate, R. A. and Stafford, K. M. and Prahl, F. G.
 A Synthesis of Year-Round Interdisciplinary Mooring Measurements in the Bering Strait (1990-2014) and the RUSALCA Years (2004-2011)
 ## Keywords:
 bering strait, adcp, sea ice, chukchi sea
-
 ## Geographic Coverage
 Bering Strait, Chukchi Sea
-
 ## Field Dates:
 09/01/1990 - 09/01/2014
-
 ## Significance:
 Overview of the ADCP and other moored sensors deployed from 1990-2014 in the Bering Strait.  Stresses the importance of the Bering Strait as the sole conduit of water into the Arctic from the Pacific.  Near-complete 24 year time series of flow through Bering Strait.
 

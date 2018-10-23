@@ -34,8 +34,8 @@ a = readDates.groupby('Date').size()
 idx = pd.date_range(min(readDates.Date), max(readDates.Date))
 a =a.reindex(idx,fill_value=0)
 a.plot(figsize = (4.5,2.5))
-plt.gcf().subplots_adjust(bottom=0.15)
-plt.savefig('readingTimeline.png',bbox_inches="tight")
+plt.gcf().subplots_adjust(bottom=0.21)
+plt.savefig('readingTimeline.png')
 
 # Now lets populate the readme file with the paper list
 readme = 'README.md'
@@ -62,5 +62,5 @@ with open(readme,'a') as myFile:
             sig = f.read().split('\n')[12]
             #if os.path.basename(file)[:-3] not in allText:
             myFile.write('* ['+os.path.basename(file)[:-3]+' - '+
-            title+'](https://github.com/leviner/ReadingList/tree/master/pacificArctic/'+os.path.basename(file)+') \n' +
+            title+'](https://github.com/leviner/ReadingList/tree/master/'+folder[:-1]+'/'+os.path.basename(file)+') \n' +
             '     * '+ sig + ' \n')

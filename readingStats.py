@@ -33,7 +33,7 @@ wordcloud.to_file("readingCloud.png")
 a = readDates.groupby('Date').size()
 idx = pd.date_range(min(readDates.Date), max(readDates.Date))
 a =a.reindex(idx,fill_value=0)
-a.plot(figsize = (4.5,2.5))
+a.plot(style='o-',figsize = (4.5,2.5))
 plt.gcf().subplots_adjust(bottom=0.21)
 plt.savefig('readingTimeline.png')
 

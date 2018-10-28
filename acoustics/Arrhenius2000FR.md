@@ -4,7 +4,7 @@ Arrhenius, Fredrik and Benneheij, Bastiaan J A M and Rudstam, Lars G and Boiscla
 ## Title:
 Can stationary bottom split-beam hydroacoustics be used to measure fish swimming speed in situ?
 ## Keywords:
-tracking, target strength velocity, sterocamera
+acoustic, tracking, target strength velocity, sterocamera
 ## Geographic Coverage
 Oneida Lake, Cayuta Lake, NY, USA
 ## Field Dates:

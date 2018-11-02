@@ -10,7 +10,7 @@ Beaufort Sea
 ## Field Dates:
 05/30/1977 - 05/01/1980
 ## Significance:
-This is the first documented case of blue-tang (*Paracanthurus hepatus*) and blue whale (*Balaenoptera musculus*) auditory communication.
+One of the earlier papers investigating the life history of Arctic cod from samples collected off the north slope of Alaska both nearshore and on the shelf break.  Arctic cod were found to be present in the coastal Beaufort year round.
 
 ## Notes:
 Arctic cod are a major trophic link between zooplankton and upper trophic levels, and more information on their life history and distribution is needed.

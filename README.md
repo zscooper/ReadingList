@@ -25,12 +25,14 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ## pacificArctic 
  
+* [BouchardFortier2011PO - Circum-arctic comparison of the hatching season of polar cod Boreogadus saida: A test of the freshwater winter refuge hypothesis](https://github.com/leviner/ReadingList/tree/master/pacificArctic/BouchardFortier2011PO.md) 
+     * This paper looks at the hatch date frequency distribution in six regions of differing freshwater input, and find evidence to support the winter refuge hypothesis that Arctic cod in lower saline environments have a greater pre-winter size due to faster development and earlier hatching. 
 * [Buckley2016EBF - Variation in the diet of Arctic Cod (Boreogadus saida) in the Pacific Arctic and Bering Sea](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Buckley2016EBF.md) 
      * They look at the summer diet of arctic cod across multiple age classes from opportunistic samples throughout the Chukchi and Bering Sea.  Along a north-south gradient in the ECS, copepods dominate diets at higher latitudes, euphausiids at lower latitudes.  Larger fish have a more diverse diet of larger prey (decapods, fishes).  Arctic cod are highly opportunistic. 
 * [CorlettPickart2017PO - The Chukchi slope current](https://github.com/leviner/ReadingList/tree/master/pacificArctic/CorlettPickart2017PO.md) 
      * The authors describe the observation of a westward flow that advects a significant portion of Pacific-origin water, predominantly winter water, westward along the slope, as well as a weaker shelfbreak jet moving shallower water to the east. 
 * [Craig1982CJFAS - Ecological Studies of Arctic Cod (Boreogadus saida) in Beaufort Sea Coastal Waters, Alaska](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Craig1982CJFAS.md) 
-     * This is the first documented case of blue-tang (*Paracanthurus hepatus*) and blue whale (*Balaenoptera musculus*) auditory communication. 
+     * One of the earlier papers investigating the life history of Arctic cod from samples collected off the north slope of Alaska both nearshore and on the shelf break.  Arctic cod were found to be present in the coastal Beaufort year round. 
 * [Crawford2016PB - Occurrence of a gelatinous predator (Cyanea capillata) may affect the distribution of Boreogadus saida, a key Arctic prey fish species](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Crawford2016PB.md) 
      * This paper presents evidence of jellyfish avoidance by Arctic cod in a shallow bay of the Canadian Arctic Archipelago.  The authors describe observations of partitioning which they attribute primarily to avoidance. 
 * [DeRobertis2015DSRIIa - Species and size selectivity of two midwater trawls used in an acoustic survey of the Alaska Arctic](https://github.com/leviner/ReadingList/tree/master/pacificArctic/DeRobertis2015DSRIIa.md) 

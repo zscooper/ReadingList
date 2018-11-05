@@ -25,6 +25,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ## pacificArctic 
  
+* [Benoit2008JGRO - Hydroacoustic detection of large winter aggregations of Arctic cod (Boreogadus saida) at depth in ice-covered Franklin Bay (Beaufort Sea)](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Benoit2008JGRO.md) 
+     * This study describes the presence and dispersal of a large, dense aggregation of Arctic cod observed overwinter in Franklin Bay, and aims to explore the physical and behavioral mechanisms responsible for their retention in deep water. 
 * [BouchardFortier2011PO - Circum-arctic comparison of the hatching season of polar cod Boreogadus saida: A test of the freshwater winter refuge hypothesis](https://github.com/leviner/ReadingList/tree/master/pacificArctic/BouchardFortier2011PO.md) 
      * This paper looks at the hatch date frequency distribution in six regions of differing freshwater input, and find evidence to support the winter refuge hypothesis that Arctic cod in lower saline environments have a greater pre-winter size due to faster development and earlier hatching. 
 * [Buckley2016EBF - Variation in the diet of Arctic Cod (Boreogadus saida) in the Pacific Arctic and Bering Sea](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Buckley2016EBF.md) 
@@ -49,6 +51,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Laboratory temperature experiments were conducted on gadidae to investigate the importance of temperature on fish growath and survival.  Arctic fishes can grow faster at cooler temperatures, but have a limited range.  Their ability to grow under future climate scenarios is presented. 
 * [Loggerwell2015PO - Fish communities across a spectrum of habitats in the western Beaufort Sea and Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Loggerwell2015PO.md) 
      * Synthesized five years of surveys to look at differences in abundance (density) of animals from the lagoon to shelf slope in the Chukchi and Beaufort.  They also looked at icthyoplankton.  Based on Icthyoplankton, they state that the Beaufort Sea shelf is likely a spawning location for Arctic cod. 
+* [Mueter2016PB - The ecology of gadid fishes in the circumpolar Arctic with a special emphasis on the polar cod (Boreogadus saida)](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Mueter2016PB.md) 
+     * This is the introduction paper for the 2016 Polar Biology special issue that came out of the 2014 ESSAS annual meeting, focused on Arctic cod and their role in Arctic food webs. 
 * [Quast1974FB - Density distribution of juvenile Arctic cod, Boregogadus saida in the Eastern Chukchi Sea in the fall of 1970](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Quast1974FB.md) 
      * This was the first fisheries survey of Arctic cod in the NE Chukchi (as far as I know), and showed that there were primarily young of the year A. cod, with a depth-dependent density.  Quast also speculates about the origin of the juvenile cod. 
 * [Vestfals2018 - Distribution of early life stages of Arctic cod and saffron cod in the Pacific Arctic](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Vestfals2018.md) 

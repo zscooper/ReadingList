@@ -3,6 +3,7 @@ import pandas as pd
 import itertools
 from collections import Counter
 import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
 import os
 from wordcloud import WordCloud
 
@@ -33,7 +34,11 @@ wordcloud.to_file("readingCloud.png")
 a = readDates.groupby('Date').size()
 idx = pd.date_range(min(readDates.Date), max(readDates.Date))
 a =a.reindex(idx,fill_value=0)
-a.plot(style='o-',figsize = (4.5,2.5))
+fig, ax = plt.subplots(figsize=(4.5,2.5))
+ax.plot(idx,a.values,'o-')
+ax.xaxis.set_major_locator(mdates.WeekdayLocator())
+#set major ticks format
+ax.xaxis.set_major_formatter(mdates.DateFormatter('%b %d'))
 plt.gcf().subplots_adjust(bottom=0.22)
 plt.savefig('readingTimeline.png')
 

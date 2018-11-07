@@ -4,7 +4,7 @@ Benoit-Bird, K. J. and Patrick Welch, T. and Waluk, C. M. and Barth, J. A. and W
 ## Title:
 Equipping an underwater glider with a new echosounder to explore ocean ecosystems
 ## Keywords:
-
+autonomous, glider, acoustics, mesopelagic
 ## Geographic Coverage
 Moneterey Bay, CA, USA
 ## Field Dates:

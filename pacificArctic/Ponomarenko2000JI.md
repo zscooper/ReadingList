@@ -10,6 +10,7 @@ Barents Sea, Kara Sea, White Sea
 ## Field Dates:
 12/01/1956 - 09/30/1970
 ## Significance:
+Observations of eggs, larvae, and juveniles from 14 years of sampling Polar cod.  The early life cycle is described, and differences in specimen and development are attributed environmental conditions.
 
 ## Notes:
 Majority of spawning polar cod stay near the ice margin and under sea ice for spawning, which occurs close to the surface in warmer temperatures.

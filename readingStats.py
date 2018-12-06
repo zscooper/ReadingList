@@ -36,7 +36,7 @@ idx = pd.date_range(min(readDates.Date), max(readDates.Date))
 a =a.reindex(idx,fill_value=0)
 fig, ax = plt.subplots(figsize=(4.5,2.5))
 ax.plot(idx,a.values,'o-')
-ax.xaxis.set_major_locator(mdates.WeekdayLocator())
+ax.xaxis.set_major_locator(mdates.MonthLocator())
 #set major ticks format
 ax.xaxis.set_major_formatter(mdates.DateFormatter('%b %d'))
 plt.gcf().subplots_adjust(bottom=0.22)

@@ -16,6 +16,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Arrhenius et al. deployed an upward facing echosounder in two lakes to determine the ability of a split-beam echosounder to track fish, using a stereo-video system to validate the recorded swim speeds. 
 * [Benoit-Bird2018LOM - Equipping an underwater glider with a new echosounder to explore ocean ecosystems](https://github.com/leviner/ReadingList/tree/master/acoustics/Benoit-Bird2018LOM.md) 
      * An EK80 (WBT-Mini) was installed on a slocum glider and deployed in Monterey Bay.  This paper documents the instrumentation, installation, and preliminary data from the first deployments. 
+* [Brede1990IMR - Target tracking with a split-beam echo sounder](https://github.com/leviner/ReadingList/tree/master/acoustics/Brede1990IMR.md) 
+     * Demonstration of the ability to track targets and the ability to determine target strength and directivity in the beam. 
 * [DeRobertis2018InPrep - Comparison of acoustic backscatter measurements from unmanned sailing vehicles and a noise-reduced research vessel](https://github.com/leviner/ReadingList/tree/master/acoustics/DeRobertis2018InPrep.md) 
      * Currently in preparation manuscript on the 2016 Saildrone deployment in the Bering Sea, investigating vessel avoidance during opportunistic and follow-the-leader ship-saildrone comparisons. 
 * [Foote1987JASA - Fish target strengths for use in echo integrator surveys](https://github.com/leviner/ReadingList/tree/master/acoustics/Foote1987JASA.md) 
@@ -29,10 +31,14 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ## pacificArctic 
  
+* [Aronovich1975AC - Egg incubation and larval rearing of navaga (Eleginus navaga Pall.), polar cod (Boreogadus saida lepechin) and arctic flounder (Liopsetta glacialis Pall.) in the laboratory](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Aronovich1975AC.md) 
+     * Early description of Arctic cod egg and larval stages through incubation experiments, with developmental timing and growth rates 
 * [Benoit2008JGRO - Hydroacoustic detection of large winter aggregations of Arctic cod (Boreogadus saida) at depth in ice-covered Franklin Bay (Beaufort Sea)](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Benoit2008JGRO.md) 
      * This study describes the presence and dispersal of a large, dense aggregation of Arctic cod observed overwinter in Franklin Bay, and aims to explore the physical and behavioral mechanisms responsible for their retention in deep water. 
 * [BouchardFortier2011PO - Circum-arctic comparison of the hatching season of polar cod Boreogadus saida: A test of the freshwater winter refuge hypothesis](https://github.com/leviner/ReadingList/tree/master/pacificArctic/BouchardFortier2011PO.md) 
      * This paper looks at the hatch date frequency distribution in six regions of differing freshwater input, and find evidence to support the winter refuge hypothesis that Arctic cod in lower saline environments have a greater pre-winter size due to faster development and earlier hatching. 
+* [Bradstreet1986DFO - Aspects of the Biology of Arctic Cod ( Boreogadus saida ) and its Importance in Arctic Marine Food Chains](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Bradstreet1986DFO.md) 
+     * Technical report on the importance of Arctic cod to the Canadian Arctic ecosystem, covers aspects of distribution, physiology, and ecological significance across North American waters.  Includes review of much of the work done prior to the 1980s, and a focus on ringed seal predation of A. cod. 
 * [Buckley2016EBF - Variation in the diet of Arctic Cod (Boreogadus saida) in the Pacific Arctic and Bering Sea](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Buckley2016EBF.md) 
      * They look at the summer diet of arctic cod across multiple age classes from opportunistic samples throughout the Chukchi and Bering Sea.  Along a north-south gradient in the ECS, copepods dominate diets at higher latitudes, euphausiids at lower latitudes.  Larger fish have a more diverse diet of larger prey (decapods, fishes).  Arctic cod are highly opportunistic. 
 * [CorlettPickart2017PO - The Chukchi slope current](https://github.com/leviner/ReadingList/tree/master/pacificArctic/CorlettPickart2017PO.md) 

@@ -7,7 +7,7 @@ import matplotlib.dates as mdates
 import os
 from wordcloud import WordCloud
 
-files = glob('pacificArctic\\*.md')+ glob('acoustics\\*.md') #continue to add to this as I add more folders
+files = glob('papers/**/**.md', recursive=True)
 
 date = []
 keywords = []
@@ -40,7 +40,8 @@ ax.xaxis.set_major_locator(mdates.MonthLocator())
 #set major ticks format
 ax.xaxis.set_major_formatter(mdates.DateFormatter('%b %d'))
 plt.gcf().subplots_adjust(bottom=0.22)
-plt.savefig('readingTimeline.png')
+#plt.savefig('readingTimeline.png')
+
 
 # Now lets populate the readme file with the paper list
 readme = 'README.md'
@@ -56,16 +57,18 @@ with open(readme) as f, open("readmetmp.txt", "w") as out:
 os.remove(readme)
 os.rename("readmetmp.txt", readme)
 
-folders = glob('*/')
+folders = glob('papers/*/')
 with open(readme,'a') as myFile:
     for folder in folders:
-        myFile.write('\n## '+ folder[:-1]+' \n \n')
-        for file in glob(folder+'*.md'):
-            f = open(file,'r')
-            title = f.read().split('\n')[4]
-            f.seek(0)
-            sig = f.read().split('\n')[12]
-            #if os.path.basename(file)[:-3] not in allText:
-            myFile.write('* ['+os.path.basename(file)[:-3]+' - '+
-            title+'](https://github.com/leviner/ReadingList/tree/master/'+folder[:-1]+'/'+os.path.basename(file)+') \n' +
-            '     * '+ sig + ' \n')
+        myFile.write('\n## '+ folder.split('\\')[1]+' \n \n')
+        for subfolder in glob(folder+'*/'):
+            myFile.write('\n### '+ subfolder.split('\\')[-2]+' \n \n')
+            for file in glob(subfolder+'*.md'):
+                f = open(file,'r')
+                title = f.read().split('\n')[4]
+                f.seek(0)
+                sig = f.read().split('\n')[12]
+                #if os.path.basename(file)[:-3] not in allText:
+                myFile.write('* ['+os.path.basename(file)[:-3]+' - '+
+                title+'](https://github.com/leviner/ReadingList/tree/master/'+subfolder.split('\\')[-2]+'/'+os.path.basename(file)+') \n' +
+                '     * '+ sig + ' \n')

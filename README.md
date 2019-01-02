@@ -33,6 +33,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [Aronovich1975AC - Egg incubation and larval rearing of navaga (Eleginus navaga Pall.), polar cod (Boreogadus saida lepechin) and arctic flounder (Liopsetta glacialis Pall.) in the laboratory](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Aronovich1975AC.md) 
      * Early description of Arctic cod egg and larval stages through incubation experiments, with developmental timing and growth rates 
+* [Ashjian2017DSRII - Mesozooplankton abundance and distribution in association with hydrography on Hanna Shoal, NE Chukchi Sea, during August 2012 and 2013](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Ashjian2017DSRII.md) 
+     * Description of the late-summer zooplankton community composition at Hannah Shoal during August of 2012 and 2013, focusing on copepods and euphausiids of interest for bowhead whales. 
 * [Benoit2008JGRO - Hydroacoustic detection of large winter aggregations of Arctic cod (Boreogadus saida) at depth in ice-covered Franklin Bay (Beaufort Sea)](https://github.com/leviner/ReadingList/tree/master/pacificArctic/Benoit2008JGRO.md) 
      * This study describes the presence and dispersal of a large, dense aggregation of Arctic cod observed overwinter in Franklin Bay, and aims to explore the physical and behavioral mechanisms responsible for their retention in deep water. 
 * [BouchardFortier2011PO - Circum-arctic comparison of the hatching season of polar cod Boreogadus saida: A test of the freshwater winter refuge hypothesis](https://github.com/leviner/ReadingList/tree/master/pacificArctic/BouchardFortier2011PO.md) 

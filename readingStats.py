@@ -60,6 +60,7 @@ os.rename("readmetmp.txt", readme)
 folders = glob('papers/*/')
 with open(readme,'a') as myFile:
     for folder in folders:
+        print(folder)
         myFile.write('\n## '+ folder.split('\\')[1]+' \n \n')
         for subfolder in glob(folder+'*/'):
             myFile.write('\n### '+ subfolder.split('\\')[-2]+' \n \n')
@@ -70,5 +71,5 @@ with open(readme,'a') as myFile:
                 sig = f.read().split('\n')[12]
                 #if os.path.basename(file)[:-3] not in allText:
                 myFile.write('* ['+os.path.basename(file)[:-3]+' - '+
-                title+'](https://github.com/leviner/ReadingList/tree/master/'+subfolder[:-1]+'/'+os.path.basename(file)+') \n' +
+                title+'](https://github.com/leviner/ReadingList/tree/master/'+os.path.relpath(file).replace('\\','/')+') \n' +
                 '     * '+ sig + ' \n')

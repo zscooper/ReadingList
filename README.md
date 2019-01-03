@@ -19,6 +19,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * An EK80 (WBT-Mini) was installed on a slocum glider and deployed in Monterey Bay.  This paper documents the instrumentation, installation, and preliminary data from the first deployments. 
 * [DeRobertis2018InPrep - Comparison of acoustic backscatter measurements from unmanned sailing vehicles and a noise-reduced research vessel](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/DeRobertis2018InPrep.md) 
      * Currently in preparation manuscript on the 2016 Saildrone deployment in the Bering Sea, investigating vessel avoidance during opportunistic and follow-the-leader ship-saildrone comparisons. 
+* [ODriscoll2018AS - Acoustic deployments reveal Antarctic silverfish under ice in the Ross Sea](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/ODriscoll2018AS.md) 
+     * This is a proof of concept study using a moored echosounder (ASL AZFP) and discrete observations from ships (acoustic and optical) to determine the abundance and spawning grounds of Antarctic silverfish. 
 * [Urmy2012JMS - Measuring the vertical distributional variability of pelagic fauna in Monterey Bay](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/Urmy2012JMS.md) 
      * Use of a moored 38kHz echosounder to look at the vertical distribution of backscatter and temporal variability over an 18-month deployment in Monterey Bay, CA, USA. 
 * [UrmyHorne2016DSRI - Multi-scale responses of scattering layers to environmental variability in Monterey Bay, California](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/autonomous/UrmyHorne2016DSRI.md) 

@@ -35,6 +35,13 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [TorgersenKaartvedt2001JMR - In situ swimming behaviour of individual mesopelagic fish studied by split-beam echo target tracking](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/TorgersenKaartvedt2001JMR.md) 
      * One of the earlier papers presenting the use of target tracking of individual fish to evaluate individual behavior.  Used a 38 kHz EK500 for data collection. 
 
+### unsorted 
+ 
+* [Ona1996JMS - Acoustic sampling and signal processing near the seabed: The deadzone revisited](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Ona1996JMS.md) 
+     * Description and equations for acoustic dead zone and sA correction. 
+* [Rose1995JMS - Cod (Gadus morhua L.) migration speeds and transport relative to currents on the north-east Newfoundland Shelf](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Rose1995JMS.md) 
+     * Observations of cod migration from spawning to feeding grounds over 3 years using acoustic detection of shoal centroid.  Observations indicate fish use active behavior to remain within the migration route. 
+
 ## pacificArctic 
  
 

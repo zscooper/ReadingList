@@ -53,10 +53,14 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * The authors describe the observation of a westward flow that advects a significant portion of Pacific-origin water, predominantly winter water, westward along the slope, as well as a weaker shelfbreak jet moving shallower water to the east. 
 * [Danielson2017DSRII - A comparison between late summer 2012 and 2013 water masses, macronutrients, and phytoplankton standing crops in the northern Bering and Chukchi Seas](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Danielson2017DSRII.md) 
      * This paper presents an overview of the physical, chemical, and phytoplankton observations as they relate to winds, flow, and ice conditions as observed during the 2012 and 2013 Arctic EIS program.  First set of "physics to fish" observations covering the whole region. 
+* [Stabeno2018JGRO - Flow Patterns in the Eastern Chukchi Sea: 2010–2015](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Stabeno2018JGRO.md) 
+     * A synthesis of mooring, drifter, model, and satellite observations of the flow and physical oceanography in the NE Chukchi Sea. 
 * [Weingartner1997AFS - A review of the Physical Oceanography of the Northeastern Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Weingartner1997AFS.md) 
      * A review of the physical oceanography published in 'Fish Ecology in Arctic North America', AFS symposium proceedings.  Outlines the physical oceanography during the ice-free season in the NE Chukchi. 
 * [Woodgate2005DSRII - A year in the physical oceanography of the Chukchi Sea: Moored measurements from autumn 1990-1991](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Woodgate2005DSRII.md) 
      * Mooring data from a 1-year deployment of CTDs and ADCPs across US and Russian waters of the Chukchi Shelf, to present the seasonality and flow across the entire Chukchi Sea over 1 year. 
+* [Woodgate2012GRL - Observed increases in Bering Strait oceanic fluxes from the Pacific to the Arctic from 2001 to 2011 and their impacts on the Arctic Ocean water column](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Woodgate2012GRL.md) 
+     * ## Notes: 
 * [Woodgate2015OCN - A Synthesis of Year-Round Interdisciplinary Mooring Measurements in the Bering Strait (1990-2014) and the RUSALCA Years (2004-2011)](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Woodgate2015OCN.md) 
      * Overview of the ADCP and other moored sensors deployed from 1990-2014 in the Bering Strait.  Stresses the importance of the Bering Strait as the sole conduit of water into the Arctic from the Pacific.  Near-complete 24 year time series of flow through Bering Strait. 
 

@@ -35,8 +35,3 @@ Oxygen extraction (respiration) and delivery to blood is temperature dependent. 
 That 6.5C acclimated fish had the greatest aerobic scope falls in line with the findings of Laurel et al., 2016 regarding the maximum growth between 5 and 9C.  These fish also exhibit fastest recovery at the warmer temperatures.  However, after acute exposure, post-exhaustion mortality is still high if temperatures do not return to acclimation temperature.  High food availability may be necessary to maintain maximum growth as described by Laurel.
 
 Egg development is still the most critical stage of A. cod development.  Ice is likely important, for water temperature suppression, and migration/survival are likely strongly driven by water temperatures which may exceed optimal conditions for respiration and performance.
-
-Concluding hypotheses
-* Fish are friends, not food
-* Don't swim towards the butt
-* Dentists are bad at keeping pets

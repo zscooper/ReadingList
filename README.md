@@ -108,6 +108,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Examined the isoscapes and relation to water masses in the Chukchi Sea, looking for diet niches of pelagic fishes, particularly Arctic cod. 
 * [Mueter2016PB - The ecology of gadid fishes in the circumpolar Arctic with a special emphasis on the polar cod (Boreogadus saida)](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Mueter2016PB.md) 
      * This is the introduction paper for the 2016 Polar Biology special issue that came out of the 2014 ESSAS annual meeting, focused on Arctic cod and their role in Arctic food webs. 
+* [Parker-Stetter2011PB - Distribution of polar cod and age-0 fish in the U.S. Beaufort Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Parker-Stetter2011PB.md) 
+     * Investigation of the offshore distribution of Arctic cod in the U.S. Beaufort Sea to examine the density and water property associations. 
 * [Ponomarenko2000JI - Eggs, larvae, and juveniles of polar cod Boreogadus saida in the Barents, Kara, and White Seas](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Ponomarenko2000JI.md) 
      * Observations of eggs, larvae, and juveniles from 14 years of sampling Polar cod.  The early life cycle is described, and differences in specimen and development are attributed environmental conditions. 
 * [Quast1974FB - Density distribution of juvenile Arctic cod, Boregogadus saida in the Eastern Chukchi Sea in the fall of 1970](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Quast1974FB.md) 

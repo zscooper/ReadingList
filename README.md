@@ -34,6 +34,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Arrhenius et al. deployed an upward facing echosounder in two lakes to determine the ability of a split-beam echosounder to track fish, using a stereo-video system to validate the recorded swim speeds. 
 * [Brede1990IMR - Target tracking with a split-beam echo sounder](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Brede1990IMR.md) 
      * Demonstration of the ability to track targets and the ability to determine target strength and directivity in the beam. 
+* [EhrenbergTorkelson1996JMS - Application of dual-beam and split-beam target tracking in fisheries acoustics](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/EhrenbergTorkelson1996JMS.md) 
+     * Discussion of dual-beam and split-beam fish tracking techniques and their application for fisheries research.  Appendix contains calculations for error/noise in split-beam angular estimates. 
 * [Foote1987JASA - Fish target strengths for use in echo integrator surveys](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Foote1987JASA.md) 
      * An investigation into the backscattering cross section, or target strength, of fish, and the methods for in situ determination of TS and relating it to fish length.  Foote proposes a set of regression analyses from in situ measurements for generalized fish families based on available data. 
 * [TorgersenKaartvedt2001JMR - In situ swimming behaviour of individual mesopelagic fish studied by split-beam echo target tracking](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/TorgersenKaartvedt2001JMR.md) 
@@ -125,10 +127,17 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Wyllie-Echeverria1997AFS - Water masses and transport of age-0 Arctic cod and age-0 Bering flounder into the northeastern Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Wyllie-Echeverria1997AFS.md) 
      * Describe the abundance and distribution of larval bering flounder in late summer from 1989-1991 in relation to the sampled water masses.  Included collection of age-0 Arctic cod throughout the NE Chukchi to investigate water mass associations. 
 
+### ice 
+ 
+* [Duarte2012NCC - Abrupt climate change in the Arctic](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/ice/Duarte2012NCC.md) 
+     * Discussion of the causes and impacts of climate change in the Arctic. 
+
 ### zooplankton 
  
 * [Ashjian2017DSRII - Mesozooplankton abundance and distribution in association with hydrography on Hanna Shoal, NE Chukchi Sea, during August 2012 and 2013](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/Ashjian2017DSRII.md) 
      * Description of the late-summer zooplankton community composition at Hannah Shoal during August of 2012 and 2013, focusing on copepods and euphausiids of interest for bowhead whales. 
+* [Day2013CSR - The offshore northeastern Chukchi Sea, Alaska: A complex high-latitude ecosystem](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/Day2013CSR.md) 
+     * Synthesis of the findings from the Chukchi Sea Environmental Studies Program from 2008-2010 at three regions of oil exploration interest near Hanna Shoal. 
 * [Kitamura2017CSR - Seasonal dynamics of zooplankton in the southern Chukchi Sea revealed from acoustic backscattering strength](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/Kitamura2017CSR.md) 
      * Use of AZFPs to describe the seasonality of zooplankton biomass, and identify the dominant scatterers in the southern Chukchi Sea, finding a seasonal peak in biomass in autumn and a minimum in early spring, not corresponnding with phytoplankton production.  Zooplpankton communities in the southern Chukchi are largely driven by advection from the Bering. 
 * [PinchukEisner2017DSRII - Spatial heterogeneity in zooplankton summer distribution in the eastern Chukchi Sea in 2012–2013 as a result of large-scale interactions of water masses](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/PinchukEisner2017DSRII.md) 

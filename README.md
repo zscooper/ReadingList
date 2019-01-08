@@ -63,6 +63,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Detection of a dense Chukchi Sea Water and the description of possible sources due to formation relating tot he modification of water masses as they are transported across the NE Chukchi Shelf via observation during early summer. 
 * [Martini2016JGRO - Dependence of subsurface chlorophyll on seasonal water masses in the Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Martini2016JGRO.md) 
      * Mapping of the subsurface chlorophyll maximum in the NE Chukchi Sea in late-summer, and the variability in nutrients and chlorophyll with hydrography and meltwater/summer water fronts.  They show that SCM depth in late summer is sensitive to seasonal changes in hydrography. 
+* [Pickart2016DSRII - Circulation of winter water on the Chukchi shelf in early Summer](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Pickart2016DSRII.md) 
+     * Study of the movement of winter water in the NE Chukchi Sea, describing the circulation and transport around Hanna Shoal towards Barrow Canyon. 
 * [Stabeno2018JGRO - Flow Patterns in the Eastern Chukchi Sea: 2010–2015](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Stabeno2018JGRO.md) 
      * A synthesis of mooring, drifter, model, and satellite observations of the flow and physical oceanography in the NE Chukchi Sea. 
 * [Weingartner1997AFS - A review of the Physical Oceanography of the Northeastern Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Weingartner1997AFS.md) 

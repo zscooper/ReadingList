@@ -5,6 +5,8 @@ Woodgate, Rebecca A. and Weingartner, Thomas J. and Lindsay, Ron
 Observed increases in Bering Strait oceanic fluxes from the Pacific to the Arctic from 2001 to 2011 and their impacts on the Arctic Ocean water column
 ## Keywords:
 bering strait, adcp, transport, heat
+## Geographic Coverage
+Bering Strait, Chukchi Sea
 ## Field Dates:
 01/01/2001 - 12/01/2011
 ## Significance:

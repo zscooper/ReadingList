@@ -38,6 +38,7 @@ ax.bar(idx,a.values, width=1)
 ax.xaxis.set_major_locator(mdates.MonthLocator())
 #set major ticks format
 ax.xaxis.set_major_formatter(mdates.DateFormatter('%b %d'))
+ax.set_ylabel('# papers read')
 plt.gcf().subplots_adjust(bottom=0.22)
 plt.savefig('readingTimeline.png')
 

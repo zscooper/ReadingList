@@ -67,12 +67,14 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Study of the movement of winter water in the NE Chukchi Sea, describing the circulation and transport around Hanna Shoal towards Barrow Canyon. 
 * [Stabeno2018JGRO - Flow Patterns in the Eastern Chukchi Sea: 2010–2015](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Stabeno2018JGRO.md) 
      * A synthesis of mooring, drifter, model, and satellite observations of the flow and physical oceanography in the NE Chukchi Sea. 
+* [Stroeve2014GRL - Changes in Arctic melt season and implications for sea ice loss](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Stroeve2014GRL.md) 
+     * Analysis of changes in melt and freeze timing of the artcic and implications for heat storage and SST due to albedo effects.  Contains a table of melt and freeze onset by region. 
 * [Weingartner1997AFS - A review of the Physical Oceanography of the Northeastern Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Weingartner1997AFS.md) 
      * A review of the physical oceanography published in 'Fish Ecology in Arctic North America', AFS symposium proceedings.  Outlines the physical oceanography during the ice-free season in the NE Chukchi. 
 * [Woodgate2005DSRII - A year in the physical oceanography of the Chukchi Sea: Moored measurements from autumn 1990-1991](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Woodgate2005DSRII.md) 
      * Mooring data from a 1-year deployment of CTDs and ADCPs across US and Russian waters of the Chukchi Shelf, to present the seasonality and flow across the entire Chukchi Sea over 1 year. 
 * [Woodgate2012GRL - Observed increases in Bering Strait oceanic fluxes from the Pacific to the Arctic from 2001 to 2011 and their impacts on the Arctic Ocean water column](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Woodgate2012GRL.md) 
-     * ## Notes: 
+     * Trends of transport at Bering Strait from 2001 to 2011 
 * [Woodgate2015OCN - A Synthesis of Year-Round Interdisciplinary Mooring Measurements in the Bering Strait (1990-2014) and the RUSALCA Years (2004-2011)](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Woodgate2015OCN.md) 
      * Overview of the ADCP and other moored sensors deployed from 1990-2014 in the Bering Strait.  Stresses the importance of the Bering Strait as the sole conduit of water into the Arctic from the Pacific.  Near-complete 24 year time series of flow through Bering Strait. 
 
@@ -118,6 +120,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Examination of larval A. cod in relation to the environment in 2008 and 2013.  They hypothesize two different spawning areas, one in the Gulf of Anadyr and one possibly in the Chukchi leading to distributions in similar water conditions in two separate regions. 
 * [Laurel2016PB - Temperature-dependent growth and behavior of juvenile Arctic cod (Boreogadus saida) and co-occurring North Pacific gadids](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Laurel2016PB.md) 
      * Laboratory temperature experiments were conducted on gadidae to investigate the importance of temperature on fish growath and survival.  Arctic fishes can grow faster at cooler temperatures, but have a limited range.  Their ability to grow under future climate scenarios is presented. 
+* [Laurel2017JMS - Temperature-dependent growth as a function of size and age in juvenile Arctic cod (Boreogadus saida)](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Laurel2017JMS.md) 
+     * Laboratory experiments of the effect of temperature on growth rates in age-0 and age-1 Arctic cod.  Optimal temperature decreases with size, and growth is strongly dependent on both environmental temperature and size.  Source of L-W regressions and growth rates for juvenile fishes. 
 * [Loggerwell2015PO - Fish communities across a spectrum of habitats in the western Beaufort Sea and Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Loggerwell2015PO.md) 
      * Synthesized five years of surveys to look at differences in abundance (density) of animals from the lagoon to shelf slope in the Chukchi and Beaufort.  They also looked at icthyoplankton.  Based on Icthyoplankton, they state that the Beaufort Sea shelf is likely a spawning location for Arctic cod. 
 * [LowryFrost1981CFN - Distribution, growth, and foods of Arctic cod (Boreogadus saida) in the Bering, Chukchi and Beaufort Seas.](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/LowryFrost1981CFN.md) 

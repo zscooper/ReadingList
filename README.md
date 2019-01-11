@@ -65,10 +65,10 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Mapping of the subsurface chlorophyll maximum in the NE Chukchi Sea in late-summer, and the variability in nutrients and chlorophyll with hydrography and meltwater/summer water fronts.  They show that SCM depth in late summer is sensitive to seasonal changes in hydrography. 
 * [Pickart2016DSRII - Circulation of winter water on the Chukchi shelf in early Summer](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Pickart2016DSRII.md) 
      * Study of the movement of winter water in the NE Chukchi Sea, describing the circulation and transport around Hanna Shoal towards Barrow Canyon. 
+* [Pisareva2017DSRII - On the nature of wind-forced upwelling in Barrow Canyon](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Pisareva2017DSRII.md) 
+     *  
 * [Stabeno2018JGRO - Flow Patterns in the Eastern Chukchi Sea: 2010–2015](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Stabeno2018JGRO.md) 
      * A synthesis of mooring, drifter, model, and satellite observations of the flow and physical oceanography in the NE Chukchi Sea. 
-* [Stroeve2014GRL - Changes in Arctic melt season and implications for sea ice loss](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Stroeve2014GRL.md) 
-     * Analysis of changes in melt and freeze timing of the artcic and implications for heat storage and SST due to albedo effects.  Contains a table of melt and freeze onset by region. 
 * [Weingartner1997AFS - A review of the Physical Oceanography of the Northeastern Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Weingartner1997AFS.md) 
      * A review of the physical oceanography published in 'Fish Ecology in Arctic North America', AFS symposium proceedings.  Outlines the physical oceanography during the ice-free season in the NE Chukchi. 
 * [Woodgate2005DSRII - A year in the physical oceanography of the Chukchi Sea: Moored measurements from autumn 1990-1991](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Woodgate2005DSRII.md) 
@@ -151,6 +151,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [Duarte2012NCC - Abrupt climate change in the Arctic](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/ice/Duarte2012NCC.md) 
      * Discussion of the causes and impacts of climate change in the Arctic. 
+* [Stroeve2014GRL - Changes in Arctic melt season and implications for sea ice loss](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/ice/Stroeve2014GRL.md) 
+     * Analysis of changes in melt and freeze timing of the artcic and implications for heat storage and SST due to albedo effects.  Contains a table of melt and freeze onset by region. 
 
 ### zooplankton 
  

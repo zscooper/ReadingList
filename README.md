@@ -77,6 +77,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Trends of transport at Bering Strait from 2001 to 2011 
 * [Woodgate2015OCN - A Synthesis of Year-Round Interdisciplinary Mooring Measurements in the Bering Strait (1990-2014) and the RUSALCA Years (2004-2011)](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Woodgate2015OCN.md) 
      * Overview of the ADCP and other moored sensors deployed from 1990-2014 in the Bering Strait.  Stresses the importance of the Bering Strait as the sole conduit of water into the Arctic from the Pacific.  Near-complete 24 year time series of flow through Bering Strait. 
+* [Woodgate2018PO - Increases in the Pacific inflow to the Arctic from 1990 to 2015, and insights into seasonal trends and driving mechanisms from year-round Bering Strait mooring data](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Woodgate2018PO.md) 
+     * Trends of transport at Bering Strait from continuous measurements from 19990 - 2016.  Transport increase of .01-.02 Sv/year, driven by changes in the pressure head. 
 
 ### fishes 
  
@@ -118,6 +120,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Study of 
 * [Gray2016PB - Variability in the summer diets of juvenile polar cod (Boreogadus saida) in the northeastern Chukchi and western Beaufort Seas](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Gray2016PB.md) 
      * Description of diet variability in age-0 to age-2 arctic cod in the Chukchi and Beaufort Seas.  Publication of enumerated prey species. 
+* [HopGjosaeter2013MBR - Polar cod ( Boreogadus saida ) and capelin ( Mallotus villosus ) as key species in marine food webs of the Arctic and the Barents Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/HopGjosaeter2013MBR.md) 
+     * Comparison of the distribution of B. saida and capelin based on observations of both stocks since the 1970s.  Gives overview of both species life cycle and impacts of heating and reduced sea ice on populations individually and potential interactions. 
 * [Kessel2016PB - Distinct patterns of Arctic cod (Boreogadus saida) presence and absence in a shallow high Arctic embayment, revealed across open-water and ice-covered periods through acoustic telemetry](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Kessel2016PB.md) 
      * The authors use acoustic telemetry (tagging) to investigate the spatial distribution of arctic cod in Resolute Bay in ice free and covered periods, and their presence in relation to environmental changes and predator presence. 
 * [Kono2016PB - Distribution pattern of Polar cod (Boreogadus saida) larvae and larval fish assemblages in relation to oceanographic parameters in the northern Bering Sea and Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Kono2016PB.md) 

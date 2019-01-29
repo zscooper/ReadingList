@@ -34,6 +34,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [Arrhenius2000FR - Can stationary bottom split-beam hydroacoustics be used to measure fish swimming speed in situ?](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Arrhenius2000FR.md) 
      * Arrhenius et al. deployed an upward facing echosounder in two lakes to determine the ability of a split-beam echosounder to track fish, using a stereo-video system to validate the recorded swim speeds. 
+* [Balk2017FR - Surface-induced errors in target strength and position estimates during horizontal acoustic surveys.](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Balk2017FR.md) 
+     * Simulations and field observations of TS and angle biases due to surface reflection in horizontal acoustics and target tracking.   
 * [Brede1990IMR - Target tracking with a split-beam echo sounder](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/Brede1990IMR.md) 
      * Demonstration of the ability to track targets and the ability to determine target strength and directivity in the beam. 
 * [EhrenbergTorkelson1996JMS - Application of dual-beam and split-beam target tracking in fisheries acoustics](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/targets/EhrenbergTorkelson1996JMS.md) 
@@ -174,6 +176,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [Ashjian2017DSRII - Mesozooplankton abundance and distribution in association with hydrography on Hanna Shoal, NE Chukchi Sea, during August 2012 and 2013](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/Ashjian2017DSRII.md) 
      * Description of the late-summer zooplankton community composition at Hannah Shoal during August of 2012 and 2013, focusing on copepods and euphausiids of interest for bowhead whales. 
+* [Darnis2019PO - Could offspring predation offset the successful reproduction of the arctic copepod Calanus hyperboreus under reduced sea-ice cover conditions?](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/Darnis2019PO.md) 
+     * Year-round observations of C. hyperboreus growth and reproduction in the Canadian Beaufort Sea.  Hypothesize top-down control of the C. hyperboreus population by other omnivore species (M. longa, C. glacialis), increased by extended ice-free periods. 
 * [Day2013CSR - The offshore northeastern Chukchi Sea, Alaska: A complex high-latitude ecosystem](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/Day2013CSR.md) 
      * Synthesis of the findings from the Chukchi Sea Environmental Studies Program from 2008-2010 at three regions of oil exploration interest near Hanna Shoal. 
 * [Ershova2015PB - Inter-annual variability of summer mesozooplankton communities of the western Chukchi Sea: 2004–2012](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/zooplankton/Ershova2015PB.md) 

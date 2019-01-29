@@ -22,6 +22,7 @@ topKeys = ''
 numPapers = len(files)
 numDays = (max(readDates.Date)-min(readDates.Date)).days+1
 print('Total papers read: '+ str(len(files)) + '\n '+
+     'Number of days since first record: '+ str(numDays) + '\n '+
      'Average per day: ' + str(numPapers/numDays) + '\n '+
      'Most common keywords: ' + str(Counter(list(itertools.chain.from_iterable(readDates.Keys.values))).most_common(5)))
 

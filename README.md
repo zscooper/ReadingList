@@ -167,6 +167,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### ice 
  
+* [AlexanderNiebauer1981LO - Oceanography of the eastern Bering Sea ice-edge zone in spring1](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/ice/AlexanderNiebauer1981LO.md) 
+     * They investigate enhanced productivity and upwelling at the ice edge in the Eastern Bering Sea 
 * [Duarte2012NCC - Abrupt climate change in the Arctic](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/ice/Duarte2012NCC.md) 
      * Discussion of the causes and impacts of climate change in the Arctic. 
 * [Stroeve2014GRL - Changes in Arctic melt season and implications for sea ice loss](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/ice/Stroeve2014GRL.md) 

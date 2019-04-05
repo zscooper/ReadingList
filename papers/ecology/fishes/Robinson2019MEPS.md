@@ -10,7 +10,7 @@ N/A
 ## Field Dates:
 N/A
 ## Significance:
-
+Observe and quantify the feeding success and failure of larval fish as a function of both fish age (day post-hatch) and copepod stage.
 
 ## Notes:
 Individual models are important for predicting animal recruitment success, though they are difficult to parameterize.

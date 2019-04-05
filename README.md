@@ -55,6 +55,11 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 ## ecology 
  
 
+### fishes 
+ 
+* [Robinson2019MEPS - Predation strategies of larval clownfish capturing evasive copepod prey](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Robinson2019MEPS.md) 
+     * Observe and quantify the feeding success and failure of larval fish as a function of both fish age (day post-hatch) and copepod stage. 
+
 ## pacificArctic 
  
 

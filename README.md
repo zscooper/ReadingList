@@ -52,6 +52,9 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Rose1995JMS - Cod (Gadus morhua L.) migration speeds and transport relative to currents on the north-east Newfoundland Shelf](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Rose1995JMS.md) 
      * Observations of cod migration from spawning to feeding grounds over 3 years using acoustic detection of shoal centroid.  Observations indicate fish use active behavior to remain within the migration route. 
 
+## ecology 
+ 
+
 ## pacificArctic 
  
 
@@ -160,6 +163,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This was the first fisheries survey of Arctic cod in the NE Chukchi (as far as I know), and showed that there were primarily young of the year A. cod, with a depth-dependent density.  Quast also speculates about the origin of the juvenile cod. 
 * [Vestfals2019PB - Distribution of early life stages of Arctic cod and saffron cod in the Pacific Arctic](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Vestfals2019PB.md) 
      * Vestfals et al aim to narrow down the potential spawning grounds for arctic and saffron cod based on the physical oceanography and summer distribution.  It contains a good review in the intro of the current literature on early life history. 
+* [VikeboMEPS2019 - Drift, growth, and survival of larval Northeast Arctic cod with simple rules of behaviour](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/VikeboMEPS2019.md) 
+     * Modeling efforts to investigate the role of vertical behavior on dispersion and success. 
 * [Whitehouse2014PB - A trophic mass balance model of the eastern Chukchi Sea with comparisons to other high-latitude systems](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Whitehouse2014PB.md) 
      * This study aimed to describe the trophic structure and function of the Chukchi Sea foodweb using an ecopath model, representing just one of many possible mass-balance solutions.  Fish estimates were taken from beam trawl samples of the Eastern Chukchi shelf. 
 * [Wyllie-Echeverria1997AFS - Water masses and transport of age-0 Arctic cod and age-0 Bering flounder into the northeastern Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Wyllie-Echeverria1997AFS.md) 

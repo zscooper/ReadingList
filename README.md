@@ -61,6 +61,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Whole lake studies of rainbow trout where they conclude that mortality due to predation depends largely on food-dependent risk taking rather than predator density. 
 * [Fausch1984CJZ - Profitable stream positions for salmonids: relating specific growth rate to net energy gain](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Fausch1984CJZ.md) 
      * Salmon select focal points based on water-velocity and food supply to maximize net gain, and in specific regions, further organization is dictated by hierarchies in which dominant fish hold more optimal positions and thus increase their growth rates. 
+* [Fausch2014EBF - A historical perspective on drift foraging models for stream salmonids](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Fausch2014EBF.md) 
+     * An overview, given by Fausch, of the development of his drift foraging model and expansion and extended applications that have occurred since. 
 * [Power1984E - Depth Distributions of Armored Catfish: Predator-Induced Resource Avoidance?](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Power1984E.md) 
      * Showed that for this population of loricariids, predation avoidance was more important than resource exploitation, and is dependent on age. 
 * [Robinson2019MEPS - Predation strategies of larval clownfish capturing evasive copepod prey](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Robinson2019MEPS.md) 
@@ -91,7 +93,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Pickart2016DSRII - Circulation of winter water on the Chukchi shelf in early Summer](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Pickart2016DSRII.md) 
      * Study of the movement of winter water in the NE Chukchi Sea, describing the circulation and transport around Hanna Shoal towards Barrow Canyon. 
 * [Pisareva2017DSRII - On the nature of wind-forced upwelling in Barrow Canyon](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Pisareva2017DSRII.md) 
-     *  
+     * Study of Barrow Canyon upwelling, describing differences in warm and cold seasons and wind speed dependece. 
 * [Stabeno2018JGRO - Flow Patterns in the Eastern Chukchi Sea: 2010–2015](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Stabeno2018JGRO.md) 
      * A synthesis of mooring, drifter, model, and satellite observations of the flow and physical oceanography in the NE Chukchi Sea. 
 * [Weingartner1997AFS - A review of the Physical Oceanography of the Northeastern Chukchi Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/circulation/Weingartner1997AFS.md) 
@@ -144,7 +146,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Geoffroy2016PB - Vertical segregation of age-0 and age-1+ polar cod (Boreogadus saida) over the annual cycle in the Canadian Beaufort Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Geoffroy2016PB.md) 
      * The authors observed two distinct layers of arctic cod, an epipelagic layer of age-0 fish which forms in spring, begins DVM in summer, and settles to depth in late fall, and a mesopelagic layer of age-1+ fish.  They used TS to estimate length at depth to show a stratification and seasonal vaibility in the two layers, as well as estimate biomass. 
 * [GrahamHop1995A - Aspects of Reproduction and Larval Biology of Arctic Cod (Boreogadus saida)](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/GrahamHop1995A.md) 
-     * Study of 
+     * Study of larval fish ecology of Arctic cod, describing timing and sizes of larval phases. 
 * [Gray2016PB - Variability in the summer diets of juvenile polar cod (Boreogadus saida) in the northeastern Chukchi and western Beaufort Seas](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/Gray2016PB.md) 
      * Description of diet variability in age-0 to age-2 arctic cod in the Chukchi and Beaufort Seas.  Publication of enumerated prey species. 
 * [HopGjosaeter2013MBR - Polar cod ( Boreogadus saida ) and capelin ( Mallotus villosus ) as key species in marine food webs of the Arctic and the Barents Sea](https://github.com/leviner/ReadingList/tree/master/papers/pacificArctic/fishes/HopGjosaeter2013MBR.md) 

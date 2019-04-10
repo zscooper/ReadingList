@@ -59,6 +59,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [Biro2003E - From individuals to populations: Prey fish risk-taking mediates mortality in whole-system experiments](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Biro2003E.md) 
      * Whole lake studies of rainbow trout where they conclude that mortality due to predation depends largely on food-dependent risk taking rather than predator density. 
+* [Fausch1984CJZ - Profitable stream positions for salmonids: relating specific growth rate to net energy gain](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Fausch1984CJZ.md) 
+     * Salmon select focal points based on water-velocity and food supply to maximize net gain, and in specific regions, further organization is dictated by hierarchies in which dominant fish hold more optimal positions and thus increase their growth rates. 
 * [Power1984E - Depth Distributions of Armored Catfish: Predator-Induced Resource Avoidance?](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Power1984E.md) 
      * Showed that for this population of loricariids, predation avoidance was more important than resource exploitation, and is dependent on age. 
 * [Robinson2019MEPS - Predation strategies of larval clownfish capturing evasive copepod prey](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Robinson2019MEPS.md) 
@@ -68,6 +70,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [Gross1994TREE - The evolution of behavioural ecology](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Gross1994TREE.md) 
      *  
+* [Heithaus2007JAE - State-dependent risk-taking by green sea turtles mediates top-down effects of tiger shark intimidation in a marine ecosystem](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Heithaus2007JAE.md) 
+     * Found that sea turtles in better condition were more likely to move out of regions of higher food quality when risk of predation increased.  Shark presence has non-lethal implications on the turtle and thus the seagrass population. 
 
 ## pacificArctic 
  

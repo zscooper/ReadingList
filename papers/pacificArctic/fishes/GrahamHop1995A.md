@@ -10,7 +10,7 @@ N/A
 ## Field Dates:
 N/A
 ## Significance:
-Study of
+Study of larval fish ecology of Arctic cod, describing timing and sizes of larval phases.
 
 ## Notes:
 Arctic cod were collected in Resolute Bay (Canadian Beaufort), and transported to Vancouver aquarium for rearing.  Fish were kept in 1C conditions.  Fish spawned after 5-6 months in captivity, and gametes were then retained in a floating mesh container and sampled throughout the study.  Spawning is possibly sensitive to the arctic light/dark cycle.

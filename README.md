@@ -57,6 +57,10 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### fishes 
  
+* [Biro2003E - From individuals to populations: Prey fish risk-taking mediates mortality in whole-system experiments](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Biro2003E.md) 
+     * Whole lake studies of rainbow trout where they conclude that mortality due to predation depends largely on food-dependent risk taking rather than predator density. 
+* [Power1984E - Depth Distributions of Armored Catfish: Predator-Induced Resource Avoidance?](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Power1984E.md) 
+     * Showed that for this population of loricariids, predation avoidance was more important than resource exploitation, and is dependent on age. 
 * [Robinson2019MEPS - Predation strategies of larval clownfish capturing evasive copepod prey](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Robinson2019MEPS.md) 
      * Observe and quantify the feeding success and failure of larval fish as a function of both fish age (day post-hatch) and copepod stage. 
 

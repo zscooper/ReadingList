@@ -10,11 +10,11 @@ Rio Frijoles, Central Panama
 ## Field Dates:
 04/01/1978 - 06/30/1979
 ## Significance:
-
+Showed that for this population of loricariids, predation avoidance was more important than resource exploitation, and is dependent on age.
 
 ## Notes:
 Predation and food limitation are alternatively proposed factors of population limitation but are interacting, e.g., if prey stay "safe" but deplete their food source, they are prey limited, but if they venture out and get eaten, they appear predator limited.
-Stream communities can be depth-specific when it comes to feeding in order to avoid predation, affecting their habitat use. 
+Stream communities can be depth-specific when it comes to feeding in order to avoid predation, affecting their habitat use.
 This paper described the depth distribution of catfish under different predation risk (day/night) in relation to depth-dependent food availabiloity.
 
 Methods
@@ -34,7 +34,6 @@ Wading and diving birds are moset effective in shallow waters.  Some of the pisc
 In shallow waters, many smaller species can hid within areas of stones, while larger fish (6-7cm) now exhibit armor and spines that may aid in avoidance.
 
 Natural predation of smaller fishes by larger fish also occurs, further differentiating the habitat of fish of different size classes.
-
 
 
 Possible hypotheses:

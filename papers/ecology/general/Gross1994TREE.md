@@ -10,14 +10,14 @@ N/A
 ## Field Dates:
 N/A
 ## Significance:
-
+Brief letter on the history of behavioral ecology as a field
 
 ## Notes:
 Behavioral ecologists look to determine why behavior is adaptive through the interaction of behavior, ecology, and genetics.  How does fitness vary as a function of behavior?  Behavior includes:
 - mechanisms
 - reproductive strategies
 - survival strategies
-- social behavior 
+- social behavior
 - life history strategy
 - population interaction
 

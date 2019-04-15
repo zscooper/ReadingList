@@ -47,6 +47,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### unsorted 
  
+* [DeRobertis2019JMS - Amplifier linearity accounts for discrepancies in echo-integration measurements from two widely used echosounders](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/DeRobertis2019JMS.md) 
+     * Found that echo-integration measurements of Ek80 are lower than those of EK60, and the range-dependency of the differences suggested a non-linear amplification in one of the systems which was identified within the EK60. 
 * [Ona1996JMS - Acoustic sampling and signal processing near the seabed: The deadzone revisited](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Ona1996JMS.md) 
      * Description and equations for acoustic dead zone and sA correction. 
 * [Rose1995JMS - Cod (Gadus morhua L.) migration speeds and transport relative to currents on the north-east Newfoundland Shelf](https://github.com/leviner/ReadingList/tree/master/papers/acoustics/unsorted/Rose1995JMS.md) 
@@ -71,7 +73,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 ### general 
  
 * [Gross1994TREE - The evolution of behavioural ecology](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Gross1994TREE.md) 
-     *  
+     * Brief letter on the history of behavioral ecology as a field 
 * [Heithaus2007JAE - State-dependent risk-taking by green sea turtles mediates top-down effects of tiger shark intimidation in a marine ecosystem](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Heithaus2007JAE.md) 
      * Found that sea turtles in better condition were more likely to move out of regions of higher food quality when risk of predation increased.  Shark presence has non-lethal implications on the turtle and thus the seagrass population. 
 

@@ -10,6 +10,7 @@ N/A
 ## Field Dates:
 N/A
 ## Significance:
+Prey put in a significant amount of effort to avoid predation, and this behavior has major implications at the individual, population, and ecosystem level.  A review of the current research.
 
 ## Notes:
 Tradeoffs
@@ -32,3 +33,7 @@ Population level Consequences
 
 
 Few predator-prey models consider anti-predator decision making, and when included has been shown to stabilize oscillatory cycles.
+
+Non-lethality can indirectly influence ecosystems
+- Competitive outcomes: differential habitat selection under risk of predation prevents competitive exclusion between species.  Or the other way, where with no predator, they are evenly matched, but under predation, behavior of one species leads to its demise.  And if all is even, there may be competition for refuge space.
+- Top down: many effects are behavioral, due to avoidance of areas with predators, increasing bottom (e.g., algal growth).

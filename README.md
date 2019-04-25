@@ -69,10 +69,14 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Salmon select focal points based on water-velocity and food supply to maximize net gain, and in specific regions, further organization is dictated by hierarchies in which dominant fish hold more optimal positions and thus increase their growth rates. 
 * [Fausch2014EBF - A historical perspective on drift foraging models for stream salmonids](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Fausch2014EBF.md) 
      * An overview, given by Fausch, of the development of his drift foraging model and expansion and extended applications that have occurred since. 
+* [Mehner2012FB - Diel vertical migration of freshwater fishes - proximate triggers, ultimate causes and research perspectives](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Mehner2012FB.md) 
+     * Review of patterns and mechanism of DVM in freshwater fish. 
 * [Power1984E - Depth Distributions of Armored Catfish: Predator-Induced Resource Avoidance?](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Power1984E.md) 
      * Showed that for this population of loricariids, predation avoidance was more important than resource exploitation, and is dependent on age. 
 * [Robinson2019MEPS - Predation strategies of larval clownfish capturing evasive copepod prey](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Robinson2019MEPS.md) 
      * Observe and quantify the feeding success and failure of larval fish as a function of both fish age (day post-hatch) and copepod stage. 
+* [ScheuerellSchindler2003E - Diel Vertical Migration by Juvenile Sockeye Salmon: Empirical Evidence for the Antipredation Window](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/ScheuerellSchindler2003E.md) 
+     * Juvenile sockeye migrate to maintain a specific light environment to minimize predation risk in lakes. 
 
 ### general 
  
@@ -80,8 +84,10 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Brief letter on the history of behavioral ecology as a field 
 * [Heithaus2007JAE - State-dependent risk-taking by green sea turtles mediates top-down effects of tiger shark intimidation in a marine ecosystem](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Heithaus2007JAE.md) 
      * Found that sea turtles in better condition were more likely to move out of regions of higher food quality when risk of predation increased.  Shark presence has non-lethal implications on the turtle and thus the seagrass population. 
-* [Lima1998B - Nonlethal Effects in the Ecology of Predator-Prey Interactions](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Lima1998B.md) 
+* [Lampert1989FE - The Adaptive Significance of Diel Vertical Migration of Zooplankton](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Lampert1989FE.md) 
      *  
+* [Lima1998B - Nonlethal Effects in the Ecology of Predator-Prey Interactions](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Lima1998B.md) 
+     * Prey put in a significant amount of effort to avoid predation, and this behavior has major implications at the individual, population, and ecosystem level.  A review of the current research. 
 * [LimaDill1990CJZ - Behavioral decisions made under the risk of predation: a review and prospectus](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/LimaDill1990CJZ.md) 
      * Risk of predation is integral to decision making.  Here they outline many of the factors influenced by predation risk. 
 

@@ -65,10 +65,14 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Background level of predation risk (pre-exposure) is a stronger driver of neophobic response than concentration of cue. 
 * [Catano2017O - Predator identity and time of day interact to shape the risk–reward trade-off for herbivorous coral reef fishes](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Catano2017O.md) 
      * Herbivorous fish show a threat-sensitive response by decreasing foraging near models of predators, but the effect is dependent on time of day. 
+* [Ebersole1977E - The Adaptive Significance of Interspecific Territoriality in the Reef Fish Eupomacentrus Leucostictus](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Ebersole1977E.md) 
+     * Both food resource and nest defense are prominent functions of interspecific territoriality 
 * [Fausch1984CJZ - Profitable stream positions for salmonids: relating specific growth rate to net energy gain](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Fausch1984CJZ.md) 
      * Salmon select focal points based on water-velocity and food supply to maximize net gain, and in specific regions, further organization is dictated by hierarchies in which dominant fish hold more optimal positions and thus increase their growth rates. 
 * [Fausch2014EBF - A historical perspective on drift foraging models for stream salmonids](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Fausch2014EBF.md) 
      * An overview, given by Fausch, of the development of his drift foraging model and expansion and extended applications that have occurred since. 
+* [Genner1999JAE - Resource control by territorial male cichlid fish in Lake Malawi](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Genner1999JAE.md) 
+     * Interspecific territoriality may reduce competition between species with different diets, thus promoting coexistence and high levels of diversity. 
 * [Mehner2012FB - Diel vertical migration of freshwater fishes - proximate triggers, ultimate causes and research perspectives](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Mehner2012FB.md) 
      * Review of patterns and mechanism of DVM in freshwater fish. 
 * [Power1984E - Depth Distributions of Armored Catfish: Predator-Induced Resource Avoidance?](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Power1984E.md) 

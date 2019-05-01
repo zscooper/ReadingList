@@ -65,6 +65,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Background level of predation risk (pre-exposure) is a stronger driver of neophobic response than concentration of cue. 
 * [Catano2017O - Predator identity and time of day interact to shape the risk–reward trade-off for herbivorous coral reef fishes](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Catano2017O.md) 
      * Herbivorous fish show a threat-sensitive response by decreasing foraging near models of predators, but the effect is dependent on time of day. 
+* [Clayton1987B - Why Mudskippers Build Walls](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Clayton1987B.md) 
+     * Shows the impact of compressibility (increasing density) on territoriality through the use of mudwalls to define spaces and limit aggression between neighbors. 
 * [Ebersole1977E - The Adaptive Significance of Interspecific Territoriality in the Reef Fish Eupomacentrus Leucostictus](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Ebersole1977E.md) 
      * Both food resource and nest defense are prominent functions of interspecific territoriality 
 * [Fausch1984CJZ - Profitable stream positions for salmonids: relating specific growth rate to net energy gain](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Fausch1984CJZ.md) 
@@ -81,6 +83,10 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Observe and quantify the feeding success and failure of larval fish as a function of both fish age (day post-hatch) and copepod stage. 
 * [ScheuerellSchindler2003E - Diel Vertical Migration by Juvenile Sockeye Salmon: Empirical Evidence for the Antipredation Window](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/ScheuerellSchindler2003E.md) 
      * Juvenile sockeye migrate to maintain a specific light environment to minimize predation risk in lakes. 
+* [WardHart2003FF - The effects of kin and familiarity on interactions between fish](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/WardHart2003FF.md) 
+     * Review of literature on role of recognition of relatedness in interactions. 
+* [WarnerHoffman1980E - Population Density and the Economics of Territorial Defense in a Coral Reef Fish](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/WarnerHoffman1980E.md) 
+     * Implications of density on mating success of territorial male reef fishes, showing that decreased density of fish leads to less time defending and thus more time for mating. 
 
 ### general 
  

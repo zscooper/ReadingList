@@ -61,6 +61,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [Basolo1990S - Female preferences predates the evolution of the sword in swordtail fish](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Basolo1990S.md) 
      * Observations testing the selection by females of a non-ancestral trait in males. 
+* [Berdahl2013S - Emergent Sensing of Complex Environments by Mobile Animal Groups](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Berdahl2013S.md) 
+     * Investigating the mechanisms of group behavior response to environmental gradients in fish. 
 * [Biro2003E - From individuals to populations: Prey fish risk-taking mediates mortality in whole-system experiments](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Biro2003E.md) 
      * Whole lake studies of rainbow trout where they conclude that mortality due to predation depends largely on food-dependent risk taking rather than predator density. 
 * [Brown2014BES - Background level of risk determines the intensity of predator neophobia in juvenile convict cichlids](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Brown2014BES.md) 
@@ -87,8 +89,12 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Juvenile sockeye migrate to maintain a specific light environment to minimize predation risk in lakes. 
 * [Sisneros2009IZ - Adaptive hearing in the vocal plainfin midshipman fish: getting in tune for the breeding season and implications for acoustic communication.](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Sisneros2009IZ.md) 
      * A review of the plasticity of frequency sensitivity in midhsipman 
+* [Ward2011PNAS - Fast and accurate decisions through collective vigilance in fish shoals](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Ward2011PNAS.md) 
+     * Lab tests showing that speed and accuracy of predator avoidance increase as a function of group size. 
 * [WardHart2003FF - The effects of kin and familiarity on interactions between fish](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/WardHart2003FF.md) 
      * Review of literature on role of recognition of relatedness in interactions. 
+* [Warner1988N - Traditionality of mating-site preferences in a coral reef fish](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Warner1988N.md) 
+     * Observations of traditionalism in wrasse who appear establish mating territories based on traditional sites rather than resource assessment. 
 * [WarnerHoffman1980E - Population Density and the Economics of Territorial Defense in a Coral Reef Fish](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/WarnerHoffman1980E.md) 
      * Implications of density on mating success of territorial male reef fishes, showing that decreased density of fish leads to less time defending and thus more time for mating. 
 

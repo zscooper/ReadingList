@@ -81,6 +81,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Interspecific territoriality may reduce competition between species with different diets, thus promoting coexistence and high levels of diversity. 
 * [Mehner2012FB - Diel vertical migration of freshwater fishes - proximate triggers, ultimate causes and research perspectives](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Mehner2012FB.md) 
      * Review of patterns and mechanism of DVM in freshwater fish. 
+* [Parrish2002BB - Self-organized fish schools: An examination of emergent properties](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Parrish2002BB.md) 
+     * Tries to detangle the role of social and asocial forcings, and the mechanisms of why fish school through exploration of previous model development and their own. 
 * [Power1984E - Depth Distributions of Armored Catfish: Predator-Induced Resource Avoidance?](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Power1984E.md) 
      * Showed that for this population of loricariids, predation avoidance was more important than resource exploitation, and is dependent on age. 
 * [Robinson2019MEPS - Predation strategies of larval clownfish capturing evasive copepod prey](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Robinson2019MEPS.md) 

@@ -69,6 +69,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Background level of predation risk (pre-exposure) is a stronger driver of neophobic response than concentration of cue. 
 * [Catano2017O - Predator identity and time of day interact to shape the risk–reward trade-off for herbivorous coral reef fishes](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Catano2017O.md) 
      * Herbivorous fish show a threat-sensitive response by decreasing foraging near models of predators, but the effect is dependent on time of day. 
+* [Chapman2011EL - To boldly go: Individual differences in boldness influence migratory tendency](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Chapman2011EL.md) 
+     * Investigating the role of boldness in determining which individuals migrate in a partially migrating species.  Individual predation vulnerability, higher in bold fish, possibly the main factor driving the decision to migrate. 
 * [Clayton1987B - Why Mudskippers Build Walls](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Clayton1987B.md) 
      * Shows the impact of compressibility (increasing density) on territoriality through the use of mudwalls to define spaces and limit aggression between neighbors. 
 * [Ebersole1977E - The Adaptive Significance of Interspecific Territoriality in the Reef Fish Eupomacentrus Leucostictus](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Ebersole1977E.md) 

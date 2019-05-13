@@ -73,6 +73,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Investigating the role of boldness in determining which individuals migrate in a partially migrating species.  Individual predation vulnerability, higher in bold fish, possibly the main factor driving the decision to migrate. 
 * [Clayton1987B - Why Mudskippers Build Walls](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Clayton1987B.md) 
      * Shows the impact of compressibility (increasing density) on territoriality through the use of mudwalls to define spaces and limit aggression between neighbors. 
+* [Dixson2008PRSB - Coral reef fish smell leaves to find island homes](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Dixson2008PRSB.md) 
+     * Clownfish appear to have an innate olfactory attraction to rainforest vegetation which could be used to search out suitable habitat on island-associated reefs. 
 * [Ebersole1977E - The Adaptive Significance of Interspecific Territoriality in the Reef Fish Eupomacentrus Leucostictus](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Ebersole1977E.md) 
      * Both food resource and nest defense are prominent functions of interspecific territoriality 
 * [Fausch1984CJZ - Profitable stream positions for salmonids: relating specific growth rate to net energy gain](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Fausch1984CJZ.md) 
@@ -109,7 +111,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Heithaus2007JAE - State-dependent risk-taking by green sea turtles mediates top-down effects of tiger shark intimidation in a marine ecosystem](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Heithaus2007JAE.md) 
      * Found that sea turtles in better condition were more likely to move out of regions of higher food quality when risk of predation increased.  Shark presence has non-lethal implications on the turtle and thus the seagrass population. 
 * [Lampert1989FE - The Adaptive Significance of Diel Vertical Migration of Zooplankton](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Lampert1989FE.md) 
-     *  
+     * Describes how DVM varies individually within a migrating population based on a compromise between predation pressure, food availability and temperature gradients. 
 * [Lima1998B - Nonlethal Effects in the Ecology of Predator-Prey Interactions](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Lima1998B.md) 
      * Prey put in a significant amount of effort to avoid predation, and this behavior has major implications at the individual, population, and ecosystem level.  A review of the current research. 
 * [LimaDill1990CJZ - Behavioral decisions made under the risk of predation: a review and prospectus](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/LimaDill1990CJZ.md) 

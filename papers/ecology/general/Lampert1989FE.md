@@ -10,6 +10,7 @@ N/A
 ## Field Dates:
 N/A
 ## Significance:
+Describes how DVM varies individually within a migrating population based on a compromise between predation pressure, food availability and temperature gradients.
 
 ## Notes:
 Many zooplankton perform DVM, typically evening ascent and morning descent.  Amplitude and shape of migration may differ by species and by age/stage, and be influenced by external conditions (turbidity, food).

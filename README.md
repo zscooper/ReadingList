@@ -71,6 +71,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Herbivorous fish show a threat-sensitive response by decreasing foraging near models of predators, but the effect is dependent on time of day. 
 * [Chapman2011EL - To boldly go: Individual differences in boldness influence migratory tendency](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Chapman2011EL.md) 
      * Investigating the role of boldness in determining which individuals migrate in a partially migrating species.  Individual predation vulnerability, higher in bold fish, possibly the main factor driving the decision to migrate. 
+* [Chapman2012JFB - Partial migration in fishes: Causes and consequences](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Chapman2012JFB.md) 
+     * Review of partial migration strategies, and the evolutionary causes and management consequences. 
 * [Clayton1987B - Why Mudskippers Build Walls](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Clayton1987B.md) 
      * Shows the impact of compressibility (increasing density) on territoriality through the use of mudwalls to define spaces and limit aggression between neighbors. 
 * [Dixson2008PRSB - Coral reef fish smell leaves to find island homes](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Dixson2008PRSB.md) 
@@ -87,6 +89,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Review of patterns and mechanism of DVM in freshwater fish. 
 * [Parrish2002BB - Self-organized fish schools: An examination of emergent properties](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Parrish2002BB.md) 
      * Tries to detangle the role of social and asocial forcings, and the mechanisms of why fish school through exploration of previous model development and their own. 
+* [Philipp2009TAFS - Selection for Vulnerability to Angling in Largemouth Bass](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Philipp2009TAFS.md) 
+     * Long-term breeding study showing that vulnerability to recreational angling in largemouth bass is an inheritable trait. 
 * [Power1984E - Depth Distributions of Armored Catfish: Predator-Induced Resource Avoidance?](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Power1984E.md) 
      * Showed that for this population of loricariids, predation avoidance was more important than resource exploitation, and is dependent on age. 
 * [Robinson2019MEPS - Predation strategies of larval clownfish capturing evasive copepod prey](https://github.com/leviner/ReadingList/tree/master/papers/ecology/fishes/Robinson2019MEPS.md) 

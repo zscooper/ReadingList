@@ -114,12 +114,18 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Brief letter on the history of behavioral ecology as a field 
 * [Heithaus2007JAE - State-dependent risk-taking by green sea turtles mediates top-down effects of tiger shark intimidation in a marine ecosystem](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Heithaus2007JAE.md) 
      * Found that sea turtles in better condition were more likely to move out of regions of higher food quality when risk of predation increased.  Shark presence has non-lethal implications on the turtle and thus the seagrass population. 
+* [Helfman1999EBF - Behavior and fish conservation: introduction, motivation, and overview Gene](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Helfman1999EBF.md) 
+     * The introduction to a special issue on behavior and fish conservation 
 * [Lampert1989FE - The Adaptive Significance of Diel Vertical Migration of Zooplankton](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Lampert1989FE.md) 
      * Describes how DVM varies individually within a migrating population based on a compromise between predation pressure, food availability and temperature gradients. 
 * [Lima1998B - Nonlethal Effects in the Ecology of Predator-Prey Interactions](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Lima1998B.md) 
      * Prey put in a significant amount of effort to avoid predation, and this behavior has major implications at the individual, population, and ecosystem level.  A review of the current research. 
 * [LimaDill1990CJZ - Behavioral decisions made under the risk of predation: a review and prospectus](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/LimaDill1990CJZ.md) 
      * Risk of predation is integral to decision making.  Here they outline many of the factors influenced by predation risk. 
+* [Pister1999EBF - Professional obligations in the conservation of fishes](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Pister1999EBF.md) 
+     * Editorial on the values and professional responsibilities of a fisheries researcher 
+* [Shuterlad1998AB - The importance of behavioural studies in conservation biology.](https://github.com/leviner/ReadingList/tree/master/papers/ecology/general/Shuterlad1998AB.md) 
+     * Review discussing key fields and research where behavioral studies can assist conservation 
 
 ## pacificArctic 
  

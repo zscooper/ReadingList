@@ -72,5 +72,5 @@ with open(readme,'a') as myFile:
                 sig = f.read().split('\n')[12]
                 #if os.path.basename(file)[:-3] not in allText:
                 myFile.write('* ['+os.path.basename(file)[:-3]+' - '+
-                title+'](https://github.com/leviner/ReadingList/tree/master/'+os.path.relpath(file).replace('\\','/')+') \n' +
+                title+'](https://github.com/zscooper/ReadingList/tree/master/'+os.path.relpath(file).replace('\\','/')+') \n' +
                 '     * '+ sig + ' \n')

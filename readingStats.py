@@ -62,9 +62,9 @@ os.rename("readmetmp.txt", readme)
 folders = glob('papers/*/')
 with open(readme,'a') as myFile:
     for folder in folders:
-        myFile.write('\n## '+ folder.split('\\')[1]+' \n \n')
+        myFile.write('\n## '+ folder.split('/')[1]+' \n \n')
         for subfolder in glob(folder+'*/'):
-            myFile.write('\n### '+ subfolder.split('\\')[-2]+' \n \n')
+            myFile.write('\n### '+ subfolder.split('/')[-2]+' \n \n')
             for file in glob(subfolder+'*.md'):
                 f = open(file,'r')
                 title = f.read().split('\n')[4]

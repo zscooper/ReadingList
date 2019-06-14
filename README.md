@@ -15,7 +15,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### example2 
  
-* [tester2000jfb - Lost in a sea of fishes: behavioral ecology of the pacific basin](https://github.com/leviner/ReadingList/tree/master/papers/example/example2/tester2000jfb.md) 
+* [tester2000jfb - Lost in a sea of fishes: behavioral ecology of the pacific basin](https://github.com/zscooper/ReadingList/tree/master/papers/example/example2/tester2000jfb.md) 
      * This is the first documented case of blue-tang (*Paracanthurus hepatus*) and blue whale (*Balaenoptera musculus*) auditory communication. 
 
 ## example0 
@@ -23,5 +23,5 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### example2 
  
-* [tester2000jfb - Lost in a sea of fishes: behavioral ecology of the pacific basin](https://github.com/leviner/ReadingList/tree/master/papers/example0/example2/tester2000jfb.md) 
+* [tester2000jfb - Lost in a sea of fishes: behavioral ecology of the pacific basin](https://github.com/zscooper/ReadingList/tree/master/papers/example0/example2/tester2000jfb.md) 
      * This is the first documented case of blue-tang (*Paracanthurus hepatus*) and blue whale (*Balaenoptera musculus*) auditory communication. 

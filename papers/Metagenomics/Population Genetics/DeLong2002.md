@@ -4,9 +4,9 @@ DeLong, E
 ## Title:
 Microbial population genomics and ecology
 ## Keywords:
-Mine, mine, mine
-## Geographic Coverage
 Population genomics, ecology, bacteria, culture-independent
+## Geographic Coverage
+Global, marine
 ## Field Dates:
 N/A
 ## Significance:

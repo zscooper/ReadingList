@@ -13,14 +13,6 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 ## Community Assembly 
  
 
-## Genomics 
- 
-
-### Population Genetics 
- 
-* [tester2000jfb - Microbial population genomics and ecology](https://github.com/zscooper/ReadingList/tree/master/papers/Genomics/Population Genetics/tester2000jfb.md) 
-     * This is an early review of culture-independent studies of bacterial diversity/populations in the environment. 
-
 ## example 
  
 
@@ -28,6 +20,14 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [tester2000jfb - Lost in a sea of fishes: behavioral ecology of the pacific basin](https://github.com/zscooper/ReadingList/tree/master/papers/example/example2/tester2000jfb.md) 
      * This is the first documented case of blue-tang (*Paracanthurus hepatus*) and blue whale (*Balaenoptera musculus*) auditory communication. 
+
+## Metagenomics 
+ 
+
+### Population Genetics 
+ 
+* [DeLong2002 - Microbial population genomics and ecology](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/DeLong2002.md) 
+     * This is an early review of culture-independent studies of bacterial diversity/populations in the environment. 
 
 ## Psychrobacter 
  

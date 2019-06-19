@@ -20,6 +20,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [HandleyandLloyd2013 - Biogeochemical implications of the ubiquitous colonization of marine habitats and redox gradients by *Marinobacter* species](https://github.com/zscooper/ReadingList/tree/master/papers/Bacterial-genera/Marinobacter/HandleyandLloyd2013.md) 
      * Major review of *Marinobacter* spp. 
+* [Chuaetal2018 - Genomic and physiological characterization and description of *Marinobacter gelidimuriae* sp. nov., a psychrophilic, moderate halophile from Blood Falls, an antarctic subglacial brine](https://github.com/zscooper/ReadingList/tree/master/papers/Bacterial-genera/Marinobacter/Chuaetal2018.md) 
+     * Isolation of *Marinobacter gelidimuriae* sp. nov. from Antarctic subglacial brine 
 
 ## Metagenomics 
  

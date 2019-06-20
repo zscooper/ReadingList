@@ -15,6 +15,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### Psychrobacter 
  
+* [AyaladelRioetal2010 - The Genome Sequence of *Psychrobacter arcticus* 273-4, a Psychroactive Siberian Permafrost Bacterium, Reveals Mechanisms for Adaptation to Low-Temperature Growth](https://github.com/zscooper/ReadingList/tree/master/papers/Bacterial-genera/Psychrobacter/AyaladelRioetal2010.md) 
+     * First genome sequence of a cold-adapted, terrestrial bacterium *Psychrobacter arcticus* 273-4 
 
 ### Marinobacter 
  

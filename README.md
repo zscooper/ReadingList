@@ -10,6 +10,14 @@ The goal is that these .md files will be able to be indexed by python based on t
 Notes (author, year, journal in file header) on readings.  Top of each note document has authors, year, journal, title, and keywords as subsections that can be used to later index through files if needed. Each folder contains a `.bib` file updated with each new `.md` note file for use in compiling references in LaTeX.  Upon reading each paper, a new note file is made, an addition is entered into the `.bib` file, and `readingStats.py` is executed to repopulate the below list and update the figures above.
 
 
+## Cryosphere 
+ 
+
+### Permafrost 
+ 
+* [Shietal1996 - Characterization of viable bacteria from siberian permafrost by 16S rDNA sequencing](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Permafrost/Shietal1996.md) 
+     * This study isolated and identified viable bacteria from permafrost using 16S sequencing. 
+
 ## Bacterial-genera 
  
 
@@ -32,6 +40,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [DeLong2002 - Microbial population genomics and ecology](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/DeLong2002.md) 
      * This is an early review of culture-independent studies of bacterial diversity/populations in the environment. 
+* [WarwickDugdaleetal2019 - ](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/WarwickDugdaleetal2019.md) 
+     *  
 
 ### Community-assembly 
  

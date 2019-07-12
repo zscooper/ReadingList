@@ -4,7 +4,7 @@ Warwick-Dugdale, J., Solonenko, N., Moore, K., Chittick, L., Gregory, A.C., Alle
 ## Title:
 Long-read viral metagenomics captures abundant and microdiverse viral populations and their niche-defining genomic islands
 ## Keywords:
-ViralM etagenomics, Virus, Virome, Metagenome, Assembly, Viral ecology, Long-read sequencing, Marine Microbiology
+Viral Metagenomics, Virus, Virome, Metagenome, Assembly, Viral ecology, Long-read sequencing, Marine Microbiology
 ## Geographic Coverage
 Western English Channel
 ## Field Dates:

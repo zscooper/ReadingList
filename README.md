@@ -40,8 +40,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [DeLong2002 - Microbial population genomics and ecology](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/DeLong2002.md) 
      * This is an early review of culture-independent studies of bacterial diversity/populations in the environment. 
-* [WarwickDugdaleetal2019 - ](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/WarwickDugdaleetal2019.md) 
-     *  
+* [WarwickDugdaleetal2019 - Long-read viral metagenomics captures abundant and microdiverse viral populations and their niche-defining genomic islands](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/WarwickDugdaleetal2019.md) 
+     * First use of combined long and short read metaviromics to produce data useful for understanding microdiversity within a viral population 
 
 ### Community-assembly 
  

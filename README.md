@@ -36,6 +36,11 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 ## Metagenomics 
  
 
+### Methods 
+ 
+* [Glooretal2017 - Microbiome Datasets Are Compositional: And This Is Not Optional](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/Glooretal2017.md) 
+     * This paper reviews the issues and approaches to dealing with compositional data. 
+
 ### Population Genetics 
  
 * [DeLong2002 - Microbial population genomics and ecology](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/DeLong2002.md) 

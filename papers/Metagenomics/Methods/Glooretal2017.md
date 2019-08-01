@@ -18,5 +18,5 @@ Reporting relative abundances of reads can be misleading since different total r
 Centered log-ratio transformation of data can account for differential read abundances and feed into more meaningful analyses that are less likely to give false-positive results.
 
 Concluding hypotheses
-* Microbiome data shouldn't be rarefied or normalized, but it should be transformed to account for compositional differneces.
+* Microbiome data shouldn't be rarefied or normalized, but it should be transformed to account for compositional differences.
 * Transformed data is less likely to give false-positive results.

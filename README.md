@@ -42,6 +42,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This paper refutes the common practice of rarefying compositional amplicon data and suggests a more appropriate method for comparing amplicon data across samples. 
 * [Glooretal2017 - Microbiome Datasets Are Compositional: And This Is Not Optional](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/Glooretal2017.md) 
      * This paper reviews the issues and approaches to dealing with compositional data. 
+* [TsilimigrasandFodor2016 - Compositional data analysis of the microbiome: fundamentals, tools, and challenges](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/TsilimigrasandFodor2016.md) 
+     * This is a minireview of compositional data analyses. 
 
 ### Population Genetics 
  

@@ -17,6 +17,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [Shietal1996 - Characterization of viable bacteria from siberian permafrost by 16S rDNA sequencing](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Permafrost/Shietal1996.md) 
      * This study isolated and identified viable bacteria from permafrost using 16S sequencing. 
+* [Katayamaetal2007 - Phylogenetic Analysis of Bacteria Preserved in a Permafrost Ice Wedge for 25,000 Years](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Permafrost/Katayamaetal2007.md) 
+     * Phylogenetic analysis of microbes preserved in an ice wedge for 25,000 years 
 
 ## Bacterial-genera 
  
@@ -42,7 +44,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This paper refutes the common practice of rarefying compositional amplicon data and suggests a more appropriate method for comparing amplicon data across samples. 
 * [Glooretal2017 - Microbiome Datasets Are Compositional: And This Is Not Optional](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/Glooretal2017.md) 
      * This paper reviews the issues and approaches to dealing with compositional data. 
-* [Blank_note-sheet - Microbial GWAS coming of age](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/Blank_note-sheet.md) 
+* [Falush2016 - Microbial GWAS coming of age](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/Falush2016.md) 
      * This is a Nature News and Reviews article on GWAS for bacteria, an uncommon practice. 
 * [TsilimigrasandFodor2016 - Compositional data analysis of the microbiome: fundamentals, tools, and challenges](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/TsilimigrasandFodor2016.md) 
      * This is a minireview of compositional data analyses. 

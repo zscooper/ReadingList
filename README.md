@@ -19,6 +19,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This study isolated and identified viable bacteria from permafrost using 16S sequencing. 
 * [Katayamaetal2007 - Phylogenetic Analysis of Bacteria Preserved in a Permafrost Ice Wedge for 25,000 Years](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Permafrost/Katayamaetal2007.md) 
      * Phylogenetic analysis of microbes preserved in an ice wedge for 25,000 years 
+* [Lizukaetal2019 - Ion concentrations in ice wedges: An innovative approach to reconstruct past climate variability](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Permafrost/Lizukaetal2019.md) 
+     * This study investigates ionic composition of the Barrow Ice Wedge System (massive ice in my paper) as a proxy for paleoclimate and geography records 
 
 ## Bacterial-genera 
  

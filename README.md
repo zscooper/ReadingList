@@ -22,6 +22,9 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Lizukaetal2019 - Ion concentrations in ice wedges: An innovative approach to reconstruct past climate variability](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Permafrost/Lizukaetal2019.md) 
      * This study investigates ionic composition of the Barrow Ice Wedge System (massive ice in my paper) as a proxy for paleoclimate and geography records 
 
+### Cold Brines 
+ 
+
 ## Bacterial-genera 
  
 

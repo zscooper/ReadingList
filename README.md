@@ -24,6 +24,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### Cold Brines 
  
+* [Blank_note-sheet - Extreme environments as model systems for the study of microbial evolution](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Cold Brines/Blank_note-sheet.md) 
+     * This is a book chapter Life in Extreme Environments (ed. Dirk Wagner) discussing the study of microbial evolution in extreme environments. 
 
 ## Bacterial-genera 
  

@@ -24,7 +24,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### Cold Brines 
  
-* [Blank_note-sheet - Extreme environments as model systems for the study of microbial evolution](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Cold Brines/Blank_note-sheet.md) 
+* [Bakermans2015 - Extreme environments as model systems for the study of microbial evolution](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Cold Brines/Bakermans2015.md) 
      * This is a book chapter Life in Extreme Environments (ed. Dirk Wagner) discussing the study of microbial evolution in extreme environments. 
 
 ## Bacterial-genera 
@@ -68,4 +68,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * First use of combined long and short read metaviromics to produce data useful for understanding microdiversity within a viral population 
 
 ### Community-assembly 
+ 
+
+## Lab methods 
  

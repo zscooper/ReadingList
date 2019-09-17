@@ -27,6 +27,11 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Bakermans2015 - Extreme environments as model systems for the study of microbial evolution](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Cold Brines/Bakermans2015.md) 
      * This is a book chapter Life in Extreme Environments (ed. Dirk Wagner) discussing the study of microbial evolution in extreme environments. 
 
+### Sea ice 
+ 
+* [NiemiandMichel2015 - Temporal and spatial variability in sea-ice carbon:nitrogen ratios on Canadian Arctic shelves](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Sea ice/NiemiandMichel2015.md) 
+     * This study conducts a temporal and spatial survey of C:N ratios in sea ice. 
+
 ## Bacterial-genera 
  
 

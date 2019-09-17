@@ -32,6 +32,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### Psychrobacter 
  
+* [Bowman2006 - The genus *Psychrobacter*](https://github.com/zscooper/ReadingList/tree/master/papers/Bacterial-genera/Psychrobacter/Bowman2006.md) 
+     * This book chapter discusses the understanding of the dominant phenotypes associated with the genus *Psychrobacter* as of 2006. 
 * [AyaladelRioetal2010 - The Genome Sequence of *Psychrobacter arcticus* 273-4, a Psychroactive Siberian Permafrost Bacterium, Reveals Mechanisms for Adaptation to Low-Temperature Growth](https://github.com/zscooper/ReadingList/tree/master/papers/Bacterial-genera/Psychrobacter/AyaladelRioetal2010.md) 
      * First genome sequence of a cold-adapted, terrestrial bacterium *Psychrobacter arcticus* 273-4 
 
@@ -60,6 +62,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [DeLong2002 - Microbial population genomics and ecology](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/DeLong2002.md) 
      * This is an early review of culture-independent studies of bacterial diversity/populations in the environment. 
+* [Greenbaumetal2016 - Inference and Analysis of Population Structure Using Genetic Data and Network Theory](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/Greenbaumetal2016.md) 
+     * This paper describes a method for analyzing population structure using network analyses based on distance-based clustering. 
 * [Truongnetal2017 - Microbial strain-level population structure and genetic diversity from metagenomes](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/Truongnetal2017.md) 
      * Development and application of StrainPhlAn, a tool for differentiating prokaryotic strains from metagenomes 
 * [Karstetal - Enabling high-accuracy long-read amplicon sequences using unique molecular identifiers and Nanopore sequencing (pre-print)](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/Karstetal.md) 

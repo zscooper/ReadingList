@@ -10,8 +10,16 @@ The goal is that these .md files will be able to be indexed by python based on t
 Notes (author, year, journal in file header) on readings.  Top of each note document has authors, year, journal, title, and keywords as subsections that can be used to later index through files if needed. Each folder contains a `.bib` file updated with each new `.md` note file for use in compiling references in LaTeX.  Upon reading each paper, a new note file is made, an addition is entered into the `.bib` file, and `readingStats.py` is executed to repopulate the below list and update the figures above.
 
 
+## Lab_methods 
+ 
+
 ## Cryosphere 
  
+
+### Sea_ice 
+ 
+* [NiemiandMichel2015 - Temporal and spatial variability in sea-ice carbon:nitrogen ratios on Canadian Arctic shelves](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Sea_ice/NiemiandMichel2015.md) 
+     * This study conducts a temporal and spatial survey of C:N ratios in sea ice. 
 
 ### Permafrost 
  
@@ -22,15 +30,10 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Lizukaetal2019 - Ion concentrations in ice wedges: An innovative approach to reconstruct past climate variability](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Permafrost/Lizukaetal2019.md) 
      * This study investigates ionic composition of the Barrow Ice Wedge System (massive ice in my paper) as a proxy for paleoclimate and geography records 
 
-### Cold Brines 
+### Cold_brines 
  
-* [Bakermans2015 - Extreme environments as model systems for the study of microbial evolution](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Cold Brines/Bakermans2015.md) 
+* [Bakermans2015 - Extreme environments as model systems for the study of microbial evolution](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Cold_brines/Bakermans2015.md) 
      * This is a book chapter Life in Extreme Environments (ed. Dirk Wagner) discussing the study of microbial evolution in extreme environments. 
-
-### Sea ice 
- 
-* [NiemiandMichel2015 - Temporal and spatial variability in sea-ice carbon:nitrogen ratios on Canadian Arctic shelves](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Sea ice/NiemiandMichel2015.md) 
-     * This study conducts a temporal and spatial survey of C:N ratios in sea ice. 
 
 ## Bacterial-genera 
  
@@ -63,21 +66,20 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [TsilimigrasandFodor2016 - Compositional data analysis of the microbiome: fundamentals, tools, and challenges](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/TsilimigrasandFodor2016.md) 
      * This is a minireview of compositional data analyses. 
 
-### Population Genetics 
+### Community_assembly 
  
-* [DeLong2002 - Microbial population genomics and ecology](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/DeLong2002.md) 
+
+### Population_genetics 
+ 
+* [DeLong2002 - Microbial population genomics and ecology](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/DeLong2002.md) 
      * This is an early review of culture-independent studies of bacterial diversity/populations in the environment. 
-* [Greenbaumetal2016 - Inference and Analysis of Population Structure Using Genetic Data and Network Theory](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/Greenbaumetal2016.md) 
+* [Greenbaumetal2016 - Inference and Analysis of Population Structure Using Genetic Data and Network Theory](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Greenbaumetal2016.md) 
      * This paper describes a method for analyzing population structure using network analyses based on distance-based clustering. 
-* [Truongnetal2017 - Microbial strain-level population structure and genetic diversity from metagenomes](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/Truongnetal2017.md) 
+* [Truongnetal2017 - Microbial strain-level population structure and genetic diversity from metagenomes](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Truongnetal2017.md) 
      * Development and application of StrainPhlAn, a tool for differentiating prokaryotic strains from metagenomes 
-* [Karstetal - Enabling high-accuracy long-read amplicon sequences using unique molecular identifiers and Nanopore sequencing (pre-print)](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/Karstetal.md) 
+* [Karstetal - Enabling high-accuracy long-read amplicon sequences using unique molecular identifiers and Nanopore sequencing (pre-print)](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Karstetal.md) 
      * Pre-print of a methods development for producing high accuracy consensus sequences from amplicons generated using Oxford Nanopore MinION sequencing. 
-* [WarwickDugdaleetal2019 - Long-read viral metagenomics captures abundant and microdiverse viral populations and their niche-defining genomic islands](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population Genetics/WarwickDugdaleetal2019.md) 
+* [Andersonetal2017 - Genomic variation in microbial populations inhabiting the marine subseafloor at deep-sea hydrothermal vents](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Andersonetal2017.md) 
+     * This study explores evolution in hydrothermal vent microbial populations using population genetics to investigate genomic variation in MAGs. 
+* [WarwickDugdaleetal2019 - Long-read viral metagenomics captures abundant and microdiverse viral populations and their niche-defining genomic islands](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/WarwickDugdaleetal2019.md) 
      * First use of combined long and short read metaviromics to produce data useful for understanding microdiversity within a viral population 
-
-### Community-assembly 
- 
-
-## Lab methods 
- 

@@ -4,7 +4,7 @@ Anderson, RE; Reveillaud, J; Reddington, E; Delmont, TO; Eren, AM; McDermott, JM
 ## Title:
 Genomic variation in microbial populations inhabiting the marine subseafloor at deep-sea hydrothermal vents
 ## Keywords:
-Population genetics
+Population genetics, extreme environments, genomics, evolution
 ## Geographic Coverage
 Von Damm/Piccard HTVs, Mid-Cayman Rise, Caribbean Sea
 ## Field Dates:

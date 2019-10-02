@@ -32,6 +32,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### Cold_brines 
  
+* [Zhongetal - Viral ecogenomics of Arctic cryopeg brine and sea ice](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Cold_brines/Zhongetal.md) 
+     * This (pre-submission) paper uses a modern ecogenomics toolkit to investigate baseline interactions of viruses and bacteria in subzero brines from the Arctic. I co-authored this paper, collected the samples, and processed the microbial profile data. 
 * [Bakermans2015 - Extreme environments as model systems for the study of microbial evolution](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Cold_brines/Bakermans2015.md) 
      * This is a book chapter Life in Extreme Environments (ed. Dirk Wagner) discussing the study of microbial evolution in extreme environments. 
 

@@ -61,6 +61,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This paper refutes the common practice of rarefying compositional amplicon data and suggests a more appropriate method for comparing amplicon data across samples. 
 * [Glooretal2017 - Microbiome Datasets Are Compositional: And This Is Not Optional](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/Glooretal2017.md) 
      * This paper reviews the issues and approaches to dealing with compositional data. 
+* [Erenetal2015 - Anvi’o: an advanced analysis and visualization platform for ‘omics data](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/Erenetal2015.md) 
+     * This paper describes and tests the function of a community supported software package for analyzing genomic data from metagenomes. 
 * [Falush2016 - Microbial GWAS coming of age](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/Falush2016.md) 
      * This is a Nature News and Reviews article on GWAS for bacteria, an uncommon practice. 
 * [TsilimigrasandFodor2016 - Compositional data analysis of the microbiome: fundamentals, tools, and challenges](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/TsilimigrasandFodor2016.md) 

@@ -83,6 +83,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * Development and application of StrainPhlAn, a tool for differentiating prokaryotic strains from metagenomes 
 * [Karstetal - Enabling high-accuracy long-read amplicon sequences using unique molecular identifiers and Nanopore sequencing (pre-print)](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Karstetal.md) 
      * Pre-print of a methods development for producing high accuracy consensus sequences from amplicons generated using Oxford Nanopore MinION sequencing. 
+* [Bedalletal2016 - ](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Bedalletal2016.md) 
+     *  
 * [Andersonetal2017 - Genomic variation in microbial populations inhabiting the marine subseafloor at deep-sea hydrothermal vents](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Andersonetal2017.md) 
      * This study explores evolution in hydrothermal vent microbial populations using population genetics to investigate genomic variation in MAGs. 
 * [WarwickDugdaleetal2019 - Long-read viral metagenomics captures abundant and microdiverse viral populations and their niche-defining genomic islands](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/WarwickDugdaleetal2019.md) 

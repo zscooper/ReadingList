@@ -79,6 +79,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This is an early review of culture-independent studies of bacterial diversity/populations in the environment. 
 * [Greenbaumetal2016 - Inference and Analysis of Population Structure Using Genetic Data and Network Theory](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Greenbaumetal2016.md) 
      * This paper describes a method for analyzing population structure using network analyses based on distance-based clustering. 
+* [DelmontandEren2018 - Linking pangenomes and metagenomes: the *Prochlorococcus* metapangenome](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/DelmontandEren2018.md) 
+     * This study creates a pipeline using Anvi'o to profile population genomic variances using metagenomes 
 * [Truongnetal2017 - Microbial strain-level population structure and genetic diversity from metagenomes](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Truongnetal2017.md) 
      * Development and application of StrainPhlAn, a tool for differentiating prokaryotic strains from metagenomes 
 * [Karstetal - Enabling high-accuracy long-read amplicon sequences using unique molecular identifiers and Nanopore sequencing (pre-print)](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Karstetal.md) 

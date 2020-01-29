@@ -65,6 +65,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This paper reviews the issues and approaches to dealing with compositional data. 
 * [Erenetal2015 - Anvi’o: an advanced analysis and visualization platform for ‘omics data](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/Erenetal2015.md) 
      * This paper describes and tests the function of a community supported software package for analyzing genomic data from metagenomes. 
+* [blank-note-sheet - Pilon: An Integrated Tool for Comprehensive Microbial Variant Detection and Genome Assembly Improvement](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/blank-note-sheet.md) 
+     * This paper describes the Pilon assembly improvement tool that's applied by the Sullivan Lab in polishing long read assemblies with short reads. 
 * [Falush2016 - Microbial GWAS coming of age](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/Falush2016.md) 
      * This is a Nature News and Reviews article on GWAS for bacteria, an uncommon practice. 
 * [TsilimigrasandFodor2016 - Compositional data analysis of the microbiome: fundamentals, tools, and challenges](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/TsilimigrasandFodor2016.md) 

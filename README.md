@@ -67,6 +67,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This paper describes and tests the function of a community supported software package for analyzing genomic data from metagenomes. 
 * [Falush2016 - Microbial GWAS coming of age](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/Falush2016.md) 
      * This is a Nature News and Reviews article on GWAS for bacteria, an uncommon practice. 
+* [Kolmogorovetal2019 - ](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/Kolmogorovetal2019.md) 
+     *  
 * [TsilimigrasandFodor2016 - Compositional data analysis of the microbiome: fundamentals, tools, and challenges](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/TsilimigrasandFodor2016.md) 
      * This is a minireview of compositional data analyses. 
 * [Walkeretal2014 - Pilon: An Integrated Tool for Comprehensive Microbial Variant Detection and Genome Assembly Improvement](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Methods/Walkeretal2014.md) 

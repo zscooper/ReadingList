@@ -95,5 +95,7 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This study explores evolution in hydrothermal vent microbial populations using population genetics to investigate genomic variation in MAGs. 
 * [WarwickDugdaleetal2019 - Long-read viral metagenomics captures abundant and microdiverse viral populations and their niche-defining genomic islands](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/WarwickDugdaleetal2019.md) 
      * First use of combined long and short read metaviromics to produce data useful for understanding microdiversity within a viral population 
+* [Maistrenkoetal2020 - Disentangling the impact of environmental and phylogenetic constraints on prokaryotic within-species diversity](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Maistrenkoetal2020.md) 
+     * This study captures patterns of pangenome variation and assesses the effects of phylogenetic inertia and environmental influence. 
 * [CorderoandPolz2014 - Explaining microbial genomic diversity in light of evolutionary ecology](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/CorderoandPolz2014.md) 
      * This review discusses how the frequency of a gene present in a population can result from ecological and evolutionary dynamics. 

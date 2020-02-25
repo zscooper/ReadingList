@@ -79,6 +79,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### Population_genetics 
  
+* [McInerneyetal2017 - Why prokaryotes have pangenomes](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/McInerneyetal2017.md) 
+     * This paper discusses and reviews the evolutionary and ecological reasons for pangenomes in prokaryotes. 
 * [DeLong2002 - Microbial population genomics and ecology](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/DeLong2002.md) 
      * This is an early review of culture-independent studies of bacterial diversity/populations in the environment. 
 * [Greenbaumetal2016 - Inference and Analysis of Population Structure Using Genetic Data and Network Theory](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Greenbaumetal2016.md) 

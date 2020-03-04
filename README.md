@@ -81,10 +81,16 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
  
 * [McInerneyetal2017 - Why prokaryotes have pangenomes](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/McInerneyetal2017.md) 
      * This paper discusses and reviews the evolutionary and ecological reasons for pangenomes in prokaryotes. 
+* [Anreanietal2017 - Prokaryote genome fluidity is dependent on effective population size](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Anreanietal2017.md) 
+     * This paper uses pangenomes to suggest that population evolution is dominated by neutral evolution. 
 * [DeLong2002 - Microbial population genomics and ecology](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/DeLong2002.md) 
      * This is an early review of culture-independent studies of bacterial diversity/populations in the environment. 
+* [McInerneyetal2017b - Reply to ‘The population genetics of pangenomes’](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/McInerneyetal2017b.md) 
+     * This paper responds to Shapiro's criticism of McInerney and Andreani et al.'s efforts to explain pangenome evolution as neutral or adaptive. 
 * [Greenbaumetal2016 - Inference and Analysis of Population Structure Using Genetic Data and Network Theory](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Greenbaumetal2016.md) 
      * This paper describes a method for analyzing population structure using network analyses based on distance-based clustering. 
+* [VosandEyre-Walker2017 - Are pangenomes adaptive or not?](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/VosandEyre-Walker2017.md) 
+     * This is a response to Shapiro's criticism of Andreani et al and McInerney et al. primarily arguing against McInerey et al.'s suggestion that most pangenomic diversity is adaptive. 
 * [DelmontandEren2018 - Linking pangenomes and metagenomes: the *Prochlorococcus* metapangenome](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/DelmontandEren2018.md) 
      * This study creates a pipeline using Anvi'o to profile population genomic variances using metagenomes 
 * [Truongnetal2017 - Microbial strain-level population structure and genetic diversity from metagenomes](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Truongnetal2017.md) 
@@ -101,3 +107,5 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This study captures patterns of pangenome variation and assesses the effects of phylogenetic inertia and environmental influence. 
 * [CorderoandPolz2014 - Explaining microbial genomic diversity in light of evolutionary ecology](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/CorderoandPolz2014.md) 
      * This review discusses how the frequency of a gene present in a population can result from ecological and evolutionary dynamics. 
+* [Shapiro2017 - The population genetics of pangenomes](https://github.com/zscooper/ReadingList/tree/master/papers/Metagenomics/Population_genetics/Shapiro2017.md) 
+     * This paper addresses McInerney et al. and Andreani et al. (2017) to discuss their opposing views on pangenome evolution. 

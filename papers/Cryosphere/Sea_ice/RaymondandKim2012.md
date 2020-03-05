@@ -1,6 +1,6 @@
 03/04/20
 ## Authors:
-Raymon, JA; Kim HK
+Raymond, JA; Kim HK
 ## Title:
 Possible Role of Horizontal Gene Transfer in the Colonization of Sea Ice by Algae
 ## Keywords:

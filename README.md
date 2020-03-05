@@ -18,6 +18,10 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 
 ### Sea_ice 
  
+* [RaymondandKim2012 - Possible Role of Horizontal Gene Transfer in the Colonization of Sea Ice by Algae](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Sea_ice/RaymondandKim2012.md) 
+     * This study surveys ice binding proteins (IBPs) from sea ice diatoms to assess the origins of these proteins. 
+* [Raymondetal2007 - An ice-binding protein from an Antarctic sea ice bacterium](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Sea_ice/Raymondetal2007.md) 
+     * This paper isolates, purifies, and sequences an ice-binding protein (IBP) from bacteria for the first time. 
 * [NiemiandMichel2015 - Temporal and spatial variability in sea-ice carbon:nitrogen ratios on Canadian Arctic shelves](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Sea_ice/NiemiandMichel2015.md) 
      * This study conducts a temporal and spatial survey of C:N ratios in sea ice. 
 

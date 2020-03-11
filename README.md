@@ -34,6 +34,13 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
 * [Lizukaetal2019 - Ion concentrations in ice wedges: An innovative approach to reconstruct past climate variability](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Permafrost/Lizukaetal2019.md) 
      * This study investigates ionic composition of the Barrow Ice Wedge System (massive ice in my paper) as a proxy for paleoclimate and geography records 
 
+### Ecology 
+ 
+* [Fuhrmanetal2015 - Marine microbial community dynamics and their ecological interpretation](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Ecology/Fuhrmanetal2015.md) 
+     * This review discusses the dynamics of marine microbial communities and the scales and effects that control them. 
+* [Teelingetal2012 - Substrate-Controlled Succession of Marine Bacterioplankton Populations Induced by a Phytoplankton Bloom](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Ecology/Teelingetal2012.md) 
+     * This is a large scale study of (high temporal and taxonomic resolution) study of pelagic Bacterioplankton community succession over the course of a large phytoplankton bloom. 
+
 ### Cold_brines 
  
 * [Zhongetal - Viral ecogenomics of Arctic cryopeg brine and sea ice](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Cold_brines/Zhongetal.md) 

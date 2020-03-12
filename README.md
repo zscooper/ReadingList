@@ -40,6 +40,8 @@ Notes (author, year, journal in file header) on readings.  Top of each note docu
      * This review discusses the dynamics of marine microbial communities and the scales and effects that control them. 
 * [Teelingetal2012 - Substrate-Controlled Succession of Marine Bacterioplankton Populations Induced by a Phytoplankton Bloom](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Ecology/Teelingetal2012.md) 
      * This is a large scale study of (high temporal and taxonomic resolution) study of pelagic Bacterioplankton community succession over the course of a large phytoplankton bloom. 
+* [Needhametal2017 - Ecological dynamics and co-occurrence among marine phytoplankton, bacteria and myoviruses shows microdiversity matters](https://github.com/zscooper/ReadingList/tree/master/papers/Cryosphere/Ecology/Needhametal2017.md) 
+     * This study uses 16S, ITS, and g23 (major capsid protein) amplicon assays to assess changes in microbial community dynamics over time at a high taxonomic (microdiversity) resolution. 
 
 ### Cold_brines 
  
